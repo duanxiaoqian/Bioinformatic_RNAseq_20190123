@@ -1,0 +1,552 @@
+Unnamed: 0	Geneid	KO	Pathway_ko	Definition
+2	Cre01.g000600	K14855	9182	Protein families: genetic information processing
+37	Cre01.g003376	K09522	9182	Protein families: genetic information processing
+65	Cre01.g005850	K00798	9108	Metabolism of cofactors and vitamins
+84	Cre01.g007651	K06176	9182	Protein families: genetic information processing
+104	Cre01.g010848	K06997	9191	Unclassified: metabolism
+120	Cre01.g012350	K02331	9182	Protein families: genetic information processing
+121	Cre01.g012350	K02331	3400	DNA repair and recombination proteins
+192	Cre01.g017250	K09571	9152	Endocrine system
+193	Cre01.g017250	K09571	9182	Protein families: genetic information processing
+198	Cre01.g018000	K03000	9121	Transcription
+199	Cre01.g018000	K03000	9182	Protein families: genetic information processing
+206	Cre01.g018950	K00809	9191	Unclassified: metabolism
+209	Cre01.g019200	K14849	9181	Protein families: metabolism
+210	Cre01.g019200	K14849	9182	Protein families: genetic information processing
+221	Cre01.g019950	K09510	9182	Protein families: genetic information processing
+254	Cre01.g020950	K14852	9182	Protein families: genetic information processing
+272	Cre01.g022350	K14805	9182	Protein families: genetic information processing
+405	Cre01.g031750	K11883	9122	Translation
+406	Cre01.g031750	K11883	9182	Protein families: genetic information processing
+407	Cre01.g031750	K11883	3051	Proteasome
+426	Cre01.g033950	K18417	9182	Protein families: genetic information processing
+427	Cre01.g033950	K18417	3036	Chromosome and associated proteins
+445	Cre01.g034950	K06184	9182	Protein families: genetic information processing
+446	Cre01.g035000	K14791	9182	Protein families: genetic information processing
+472	Cre01.g036600	K14570	9122	Translation
+473	Cre01.g036600	K14570	9182	Protein families: genetic information processing
+534	Cre01.g040379	K14326	9122	Translation
+535	Cre01.g040379	K14326	3015	mRNA surveillance pathway
+536	Cre01.g040379	K14326	9182	Protein families: genetic information processing
+552	Cre01.g042850	K17278	9183	Protein families: signaling and cellular processes
+567	Cre01.g044150	K06970	9182	Protein families: genetic information processing
+596	Cre01.g047650	K10268	9182	Protein families: genetic information processing
+811	Cre01.g063267	K14797	9182	Protein families: genetic information processing
+812	Cre01.g063632	K03660	9124	Replication and repair
+813	Cre01.g063632	K03660	9182	Protein families: genetic information processing
+858	Cre02.g075600	K10908	9182	Protein families: genetic information processing
+909	Cre02.g078750	K15452	9182	Protein families: genetic information processing
+910	Cre02.g078750	K15452	3029	Mitochondrial biogenesis
+994	Cre02.g081550	K18532	9104	Nucleotide metabolism
+995	Cre02.g081550	K18532	9122	Translation
+996	Cre02.g081550	K18532	9182	Protein families: genetic information processing
+1016	Cre02.g083065	K14213	9181	Protein families: metabolism
+1040	Cre02.g086050	K01855	9182	Protein families: genetic information processing
+1044	Cre02.g086750	K03004	9121	Transcription
+1045	Cre02.g086750	K03004	9182	Protein families: genetic information processing
+1052	Cre02.g087600	K14439	9144	Cellular community - eukaryotes
+1053	Cre02.g087600	K14439	9182	Protein families: genetic information processing
+1062	Cre02.g088050	K03539	9122	Translation
+1063	Cre02.g088050	K03539	3008	Ribosome biogenesis in eukaryotes
+1064	Cre02.g088050	K03539	9182	Protein families: genetic information processing
+1065	Cre02.g088050	K03539	3016	Transfer RNA biogenesis
+1066	Cre02.g088050	K03539	3029	Mitochondrial biogenesis
+1089	Cre02.g090100	K18932	9191	Unclassified: metabolism
+1092	Cre02.g090276	K01148	9123	"Folding	 sorting and degradation"
+1093	Cre02.g090276	K01148	9182	Protein families: genetic information processing
+1095	Cre02.g090500	K13131	9122	Translation
+1096	Cre02.g090500	K13131	9182	Protein families: genetic information processing
+1118	Cre02.g092750	K14590	9182	Protein families: genetic information processing
+1136	Cre02.g093950	K09903	9104	Nucleotide metabolism
+1172	Cre02.g095400	K14820	9182	Protein families: genetic information processing
+1260	Cre02.g101950	K15332	9182	Protein families: genetic information processing
+1277	Cre02.g102800	K03016	9121	Transcription
+1278	Cre02.g102800	K03016	9151	Immune system
+1279	Cre02.g102800	K03016	9164	Neurodegenerative diseases
+1280	Cre02.g102800	K03016	9182	Protein families: genetic information processing
+1281	Cre02.g102800	K03016	3400	DNA repair and recombination proteins
+1290	Cre02.g104650	K14573	9122	Translation
+1291	Cre02.g104650	K14573	9182	Protein families: genetic information processing
+1477	Cre02.g114400	K03644	9108	Metabolism of cofactors and vitamins
+1485	Cre02.g115150	K13348	9141	Transport and catabolism
+1532	Cre02.g118300	K16911	9182	Protein families: genetic information processing
+1533	Cre02.g118300	K16911	3036	Chromosome and associated proteins
+1544	Cre02.g119350	K15445	9182	Protein families: genetic information processing
+1570	Cre02.g141626	K11438	9182	Protein families: genetic information processing
+1571	Cre02.g141706	K03595	9182	Protein families: genetic information processing
+1572	Cre02.g141706	K03595	3029	Mitochondrial biogenesis
+1633	Cre02.g145231	K14831	9182	Protein families: genetic information processing
+1643	Cre02.g145750	K14207	9154	Digestive system
+1644	Cre02.g145750	K14207	9156	Nervous system
+1645	Cre02.g145750	K14207	4727	GABAergic synapse
+1646	Cre02.g145750	K14207	9183	Protein families: signaling and cellular processes
+1653	Cre02.g146000	K14798	9182	Protein families: genetic information processing
+1744	Cre03.g145727	K01866	9122	Translation
+1745	Cre03.g145727	K01866	9181	Protein families: metabolism
+1746	Cre03.g145727	K01866	9182	Protein families: genetic information processing
+1747	Cre03.g145727	K01866	3029	Mitochondrial biogenesis
+1784	Cre03.g149500	K14801	9182	Protein families: genetic information processing
+1835	Cre03.g150350	K14326	9122	Translation
+1836	Cre03.g150350	K14326	3015	mRNA surveillance pathway
+1837	Cre03.g150350	K14326	9182	Protein families: genetic information processing
+1852	Cre03.g152950	K06173	9182	Protein families: genetic information processing
+1859	Cre03.g154550	K00286	9105	Amino acid metabolism
+1866	Cre03.g155800	K15025	9192	Unclassified: genetic information processing
+1871	Cre03.g156150	K14776	9182	Protein families: genetic information processing
+1906	Cre03.g159900	K07179	9122	Translation
+1907	Cre03.g159900	K07179	9181	Protein families: metabolism
+1908	Cre03.g159900	K07179	9182	Protein families: genetic information processing
+1909	Cre03.g159950	K14788	9182	Protein families: genetic information processing
+1929	Cre03.g162100	K00573	9191	Unclassified: metabolism
+1935	Cre03.g162601	K00995	9103	Lipid metabolism
+1956	Cre03.g164650	K05302	9182	Protein families: genetic information processing
+1988	Cre03.g167051	K08681	9108	Metabolism of cofactors and vitamins
+1993	Cre03.g168350	K06947	9182	Protein families: genetic information processing
+2054	Cre03.g172550	K11434	9132	Signal transduction
+2055	Cre03.g172550	K11434	9152	Endocrine system
+2056	Cre03.g172550	K11434	9182	Protein families: genetic information processing
+2063	Cre03.g172950	K11131	9122	Translation
+2064	Cre03.g172950	K11131	9182	Protein families: genetic information processing
+2065	Cre03.g172950	K11131	3032	DNA replication proteins
+2078	Cre03.g175000	K12589	9123	"Folding	 sorting and degradation"
+2079	Cre03.g175000	K12589	9182	Protein families: genetic information processing
+2107	Cre03.g176550	K02516	9122	Translation
+2108	Cre03.g176550	K02516	9132	Signal transduction
+2109	Cre03.g176550	K02516	9143	Cell growth and death
+2110	Cre03.g176550	K02516	9182	Protein families: genetic information processing
+2111	Cre03.g176550	K02516	3036	Chromosome and associated proteins
+2118	Cre03.g177200	K13207	9182	Protein families: genetic information processing
+2241	Cre03.g179860	K15335	9182	Protein families: genetic information processing
+2277	Cre03.g181400	K13950	9108	Metabolism of cofactors and vitamins
+2310	Cre03.g183500	K14851	9182	Protein families: genetic information processing
+2340	Cre03.g186550	K11137	9124	Replication and repair
+2341	Cre03.g186550	K11137	9132	Signal transduction
+2342	Cre03.g186550	K11137	9182	Protein families: genetic information processing
+2343	Cre03.g186550	K11137	3400	DNA repair and recombination proteins
+2358	Cre03.g188200	K12589	9123	"Folding	 sorting and degradation"
+2359	Cre03.g188200	K12589	9182	Protein families: genetic information processing
+2367	Cre03.g188550	K14806	9181	Protein families: metabolism
+2368	Cre03.g188550	K14806	9182	Protein families: genetic information processing
+2426	Cre03.g190850	K13238	9103	Lipid metabolism
+2461	Cre03.g192000	K14299	9122	Translation
+2462	Cre03.g192000	K14299	9132	Signal transduction
+2463	Cre03.g192000	K14299	9182	Protein families: genetic information processing
+2530	Cre03.g196850	K14549	9122	Translation
+2531	Cre03.g196850	K14549	9182	Protein families: genetic information processing
+2532	Cre03.g197000	K14847	9182	Protein families: genetic information processing
+2629	Cre03.g200991	K15262	9182	Protein families: genetic information processing
+2630	Cre03.g201100	K03798	9181	Protein families: metabolism
+2631	Cre03.g201100	K03798	9182	Protein families: genetic information processing
+2813	Cre04.g212650	K06883	9194	Poorly characterized
+2843	Cre04.g215050	K15746	9109	Metabolism of terpenoids and polyketides
+2847	Cre04.g215350	K14552	9122	Translation
+2848	Cre04.g215350	K14552	9182	Protein families: genetic information processing
+2909	Cre04.g218300	K14774	9182	Protein families: genetic information processing
+2911	Cre04.g218850	K14846	9182	Protein families: genetic information processing
+2958	Cre04.g224002	K10770	9182	Protein families: genetic information processing
+2995	Cre04.g229948	K05544	9182	Protein families: genetic information processing
+3102	Cre05.g237400	K01778	9105	Amino acid metabolism
+3103	Cre05.g237700	K11130	9122	Translation
+3104	Cre05.g237700	K11130	9182	Protein families: genetic information processing
+3105	Cre05.g237700	K11130	3032	DNA replication proteins
+3141	Cre05.g238900	K14779	9182	Protein families: genetic information processing
+3142	Cre05.g239050	K00599	9191	Unclassified: metabolism
+3143	Cre05.g239100	K01930	9108	Metabolism of cofactors and vitamins
+3144	Cre05.g239100	K01930	9176	Drug resistance: Antineoplastic
+3186	Cre05.g242900	K12592	9123	"Folding	 sorting and degradation"
+3187	Cre05.g242900	K12592	9182	Protein families: genetic information processing
+3230	Cre05.g248150	K13510	9103	Lipid metabolism
+3231	Cre05.g248150	K13510	565	Ether lipid metabolism
+3232	Cre05.g248150	K13510	9181	Protein families: metabolism
+3322	Cre06.g251350	K14829	9182	Protein families: genetic information processing
+3358	Cre06.g254150	K14558	9122	Translation
+3359	Cre06.g254150	K14558	9182	Protein families: genetic information processing
+3378	Cre06.g255950	K14553	9122	Translation
+3379	Cre06.g255950	K14553	9182	Protein families: genetic information processing
+3451	Cre06.g260200	K15100	9183	Protein families: signaling and cellular processes
+3472	Cre06.g260850	K14766	9182	Protein families: genetic information processing
+3530	Cre06.g263800	K10706	9182	Protein families: genetic information processing
+3531	Cre06.g263850	K15283	9183	Protein families: signaling and cellular processes
+3637	Cre06.g265900	K07023	9194	Poorly characterized
+3719	Cre06.g269550	K18587	9191	Unclassified: metabolism
+3808	Cre06.g273413	K14835	9182	Protein families: genetic information processing
+3865	Cre06.g274400	K16219	9191	Unclassified: metabolism
+3961	Cre06.g277050	K14856	9182	Protein families: genetic information processing
+3984	Cre06.g278097	K14298	9122	Translation
+3985	Cre06.g278097	K14298	9172	Infectious diseases: Viral
+3986	Cre06.g278097	K14298	9182	Protein families: genetic information processing
+3987	Cre06.g278097	K14298	3036	Chromosome and associated proteins
+3991	Cre06.g278136	K15687	9182	Protein families: genetic information processing
+3992	Cre06.g278139	K07910	9182	Protein families: genetic information processing
+3993	Cre06.g278139	K07910	9183	Protein families: signaling and cellular processes
+4005	Cre06.g278175	K14793	9182	Protein families: genetic information processing
+4019	Cre06.g278198	K10765	9191	Unclassified: metabolism
+4037	Cre06.g278224	K02878	9122	Translation
+4038	Cre06.g278224	K02878	9182	Protein families: genetic information processing
+4046	Cre06.g278251	K02295	9159	Environmental adaptation
+4047	Cre06.g278251	K02295	9182	Protein families: genetic information processing
+4112	Cre06.g282600	K14809	9182	Protein families: genetic information processing
+4120	Cre06.g283750	K12501	9108	Metabolism of cofactors and vitamins
+4121	Cre06.g283750	K12501	9181	Protein families: metabolism
+4137	Cre06.g284500	K11600	9123	"Folding	 sorting and degradation"
+4138	Cre06.g284500	K11600	9182	Protein families: genetic information processing
+4146	Cre06.g284800	K05541	9182	Protein families: genetic information processing
+4306	Cre06.g295250	K07252	9107	Glycan biosynthesis and metabolism
+4329	Cre06.g296550	K00485	9111	Xenobiotics biodegradation and metabolism
+4382	Cre06.g300900	K18723	9182	Protein families: genetic information processing
+4395	Cre06.g303650	K15027	9182	Protein families: genetic information processing
+4432	Cre06.g306800	K08851	9181	Protein families: metabolism
+4433	Cre06.g306800	K08851	9182	Protein families: genetic information processing
+4551	Cre07.g313302	K03027	9121	Transcription
+4552	Cre07.g313302	K03027	9151	Immune system
+4553	Cre07.g313302	K03027	9182	Protein families: genetic information processing
+4559	Cre07.g314100	K14775	9182	Protein families: genetic information processing
+4561	Cre07.g314351	K14819	9181	Protein families: metabolism
+4562	Cre07.g314351	K14819	9182	Protein families: genetic information processing
+4563	Cre07.g314550	K03439	9182	Protein families: genetic information processing
+4566	Cre07.g314900	K13179	9182	Protein families: genetic information processing
+4567	Cre07.g314900	K13179	3009	Ribosome biogenesis
+4591	Cre07.g318651	K11450	9159	Environmental adaptation
+4592	Cre07.g318651	K11450	9182	Protein families: genetic information processing
+4604	Cre07.g319750	K14807	9182	Protein families: genetic information processing
+4605	Cre07.g319900	K03681	9123	"Folding	 sorting and degradation"
+4606	Cre07.g319900	K03681	9182	Protein families: genetic information processing
+4650	Cre07.g322176	K03002	9121	Transcription
+4651	Cre07.g322176	K03002	9182	Protein families: genetic information processing
+4664	Cre07.g323450	K14850	9182	Protein families: genetic information processing
+4697	Cre07.g325712	K02896	9122	Translation
+4698	Cre07.g325712	K02896	9182	Protein families: genetic information processing
+4785	Cre07.g329150	K12818	9121	Transcription
+4786	Cre07.g329150	K12818	9182	Protein families: genetic information processing
+4810	Cre07.g331300	K00975	9101	Carbohydrate metabolism
+4811	Cre07.g331300	K00975	520	Amino sugar and nucleotide sugar metabolism
+4812	Cre07.g331300	K00975	9145	Cellular community - prokaryotes
+4822	Cre07.g332800	K14544	9122	Translation
+4823	Cre07.g332800	K14544	9182	Protein families: genetic information processing
+4850	Cre07.g334851	K17808	9182	Protein families: genetic information processing
+4934	Cre07.g340050	K14537	9122	Translation
+4935	Cre07.g340050	K14537	9182	Protein families: genetic information processing
+4975	Cre07.g344050	K14555	9122	Translation
+4976	Cre07.g344050	K14555	9182	Protein families: genetic information processing
+5001	Cre07.g347300	K11135	9182	Protein families: genetic information processing
+5002	Cre07.g347300	K11135	3032	DNA replication proteins
+5003	Cre07.g347400	K11135	9182	Protein families: genetic information processing
+5004	Cre07.g347400	K11135	3032	DNA replication proteins
+5005	Cre07.g348250	K14840	9172	Infectious diseases: Viral
+5006	Cre07.g348250	K14840	9182	Protein families: genetic information processing
+5035	Cre07.g351750	K14823	9182	Protein families: genetic information processing
+5118	Cre08.g358525	K00432	9103	Lipid metabolism
+5119	Cre08.g358525	K00432	9106	Metabolism of other amino acids
+5120	Cre08.g358525	K00432	9152	Endocrine system
+5129	Cre08.g358650	K07052	9194	Poorly characterized
+5130	Cre08.g359100	K15430	9182	Protein families: genetic information processing
+5196	Cre08.g366200	K17983	9182	Protein families: genetic information processing
+5210	Cre08.g368400	K00384	9106	Metabolism of other amino acids
+5214	Cre08.g368500	K14838	9182	Protein families: genetic information processing
+5241	Cre08.g370601	K14559	9122	Translation
+5242	Cre08.g370601	K14559	9181	Protein families: metabolism
+5243	Cre08.g370601	K14559	9182	Protein families: genetic information processing
+5315	Cre08.g374300	K19323	9193	Unclassified: signaling and cellular processes
+5331	Cre08.g376150	K17866	9182	Protein families: genetic information processing
+5339	Cre08.g377100	K00939	9104	Nucleotide metabolism
+5340	Cre08.g377100	K00939	9108	Metabolism of cofactors and vitamins
+5341	Cre08.g377100	K00939	9183	Protein families: signaling and cellular processes
+5368	Cre08.g379550	K08193	9183	Protein families: signaling and cellular processes
+5412	Cre08.g384950	K14398	9122	Translation
+5413	Cre08.g384950	K14398	9182	Protein families: genetic information processing
+5679	Cre09.g389400	K07007	9103	Lipid metabolism
+5691	Cre09.g390000	K11654	9182	Protein families: genetic information processing
+5692	Cre09.g390000	K11654	3036	Chromosome and associated proteins
+5751	Cre09.g391652	K14833	9182	Protein families: genetic information processing
+5788	Cre09.g393950	K03798	9181	Protein families: metabolism
+5789	Cre09.g393950	K03798	9182	Protein families: genetic information processing
+5797	Cre09.g394399	K14767	9182	Protein families: genetic information processing
+5801	Cre09.g394584	K03501	9182	Protein families: genetic information processing
+5802	Cre09.g394584	K03501	3036	Chromosome and associated proteins
+5861	Cre09.g397845	K08736	9124	Replication and repair
+5862	Cre09.g397845	K08736	9161	Cancers: Overview
+5863	Cre09.g397845	K08736	9162	Cancers: Specific types
+5864	Cre09.g397845	K08736	9176	Drug resistance: Antineoplastic
+5865	Cre09.g397845	K08736	9182	Protein families: genetic information processing
+5884	Cre09.g398550	K14571	9122	Translation
+5885	Cre09.g398550	K14571	9182	Protein families: genetic information processing
+5912	Cre09.g400367	K11108	9122	Translation
+5913	Cre09.g400367	K11108	9182	Protein families: genetic information processing
+5914	Cre09.g400441	K11323	9182	Protein families: genetic information processing
+5927	Cre09.g400550	K13427	9105	Amino acid metabolism
+5928	Cre09.g400550	K13427	330	Arginine and proline metabolism
+5929	Cre09.g400550	K13427	9159	Environmental adaptation
+5930	Cre09.g400550	K13427	9182	Protein families: genetic information processing
+5931	Cre09.g400550	K13427	3029	Mitochondrial biogenesis
+6003	Cre09.g402034	K11996	9123	"Folding	 sorting and degradation"
+6004	Cre09.g402034	K11996	9182	Protein families: genetic information processing
+6005	Cre09.g402034	K11996	4121	Ubiquitin system
+6033	Cre09.g403219	K03013	9121	Transcription
+6034	Cre09.g403219	K03013	9151	Immune system
+6035	Cre09.g403219	K03013	9164	Neurodegenerative diseases
+6036	Cre09.g403219	K03013	9182	Protein families: genetic information processing
+6037	Cre09.g403219	K03013	3400	DNA repair and recombination proteins
+6075	Cre09.g406000	K01942	9108	Metabolism of cofactors and vitamins
+6100	Cre09.g406851	K03364	9123	"Folding	 sorting and degradation"
+6101	Cre09.g406851	K03364	9143	Cell growth and death
+6102	Cre09.g406851	K03364	4111	Cell cycle - yeast
+6103	Cre09.g406851	K03364	9152	Endocrine system
+6104	Cre09.g406851	K03364	9182	Protein families: genetic information processing
+6120	Cre09.g408500	K07561	9182	Protein families: genetic information processing
+6168	Cre09.g415200	K17583	9181	Protein families: metabolism
+6200	Cre10.g417650	K03216	9182	Protein families: genetic information processing
+6203	Cre10.g417950	K14824	9182	Protein families: genetic information processing
+6231	Cre10.g420900	K13181	9182	Protein families: genetic information processing
+6232	Cre10.g420900	K13181	3009	Ribosome biogenesis
+6257	Cre10.g423400	K05544	9182	Protein families: genetic information processing
+6309	Cre10.g426250	K14800	9182	Protein families: genetic information processing
+6340	Cre10.g428100	K00555	9182	Protein families: genetic information processing
+6341	Cre10.g428150	K08869	9181	Protein families: metabolism
+6348	Cre10.g428550	K13941	9108	Metabolism of cofactors and vitamins
+6368	Cre10.g429800	K08869	9181	Protein families: metabolism
+6373	Cre10.g430800	K08869	9181	Protein families: metabolism
+6435	Cre10.g436600	K06949	9108	Metabolism of cofactors and vitamins
+6436	Cre10.g436600	K06949	9182	Protein families: genetic information processing
+6437	Cre10.g436650	K13179	9182	Protein families: genetic information processing
+6438	Cre10.g436650	K13179	3009	Ribosome biogenesis
+6439	Cre10.g436900	K17807	9182	Protein families: genetic information processing
+6455	Cre10.g438050	K09458	9103	Lipid metabolism
+6456	Cre10.g438050	K09458	9108	Metabolism of cofactors and vitamins
+6457	Cre10.g438050	K09458	9181	Protein families: metabolism
+6463	Cre10.g438650	K13800	9104	Nucleotide metabolism
+6464	Cre10.g438650	K13800	9111	Xenobiotics biodegradation and metabolism
+6465	Cre10.g438700	K14556	9122	Translation
+6466	Cre10.g438700	K14556	9182	Protein families: genetic information processing
+6485	Cre10.g440900	K12586	9123	"Folding	 sorting and degradation"
+6486	Cre10.g440900	K12586	9182	Protein families: genetic information processing
+6491	Cre10.g441400	K14565	9122	Translation
+6492	Cre10.g441400	K14565	9182	Protein families: genetic information processing
+6493	Cre10.g441450	K14786	9182	Protein families: genetic information processing
+6501	Cre10.g442000	K14557	9122	Translation
+6502	Cre10.g442000	K14557	9182	Protein families: genetic information processing
+6504	Cre10.g442250	K14827	9182	Protein families: genetic information processing
+6523	Cre10.g444550	K04773	9181	Protein families: metabolism
+6527	Cre10.g445600	K14569	9122	Translation
+6528	Cre10.g445600	K14569	9182	Protein families: genetic information processing
+6585	Cre10.g450879	K14859	9182	Protein families: genetic information processing
+6611	Cre10.g454100	K14561	9122	Translation
+6612	Cre10.g454100	K14561	9182	Protein families: genetic information processing
+6617	Cre10.g454650	K14721	9121	Transcription
+6618	Cre10.g454650	K14721	9151	Immune system
+6619	Cre10.g454650	K14721	9182	Protein families: genetic information processing
+6640	Cre10.g455950	K03809	9108	Metabolism of cofactors and vitamins
+6648	Cre10.g456650	K00274	9105	Amino acid metabolism
+6649	Cre10.g456650	K00274	330	Arginine and proline metabolism
+6650	Cre10.g456650	K00274	340	Histidine metabolism
+6651	Cre10.g456650	K00274	350	Tyrosine metabolism
+6652	Cre10.g456650	K00274	360	Phenylalanine metabolism
+6653	Cre10.g456650	K00274	380	Tryptophan metabolism
+6654	Cre10.g456650	K00274	9110	Biosynthesis of other secondary metabolites
+6655	Cre10.g456650	K00274	9111	Xenobiotics biodegradation and metabolism
+6656	Cre10.g456650	K00274	9156	Nervous system
+6657	Cre10.g456650	K00274	4726	Serotonergic synapse
+6658	Cre10.g456650	K00274	9165	Substance dependence
+6659	Cre10.g456650	K00274	5031	Amphetamine addiction
+6660	Cre10.g456650	K00274	5034	Alcoholism
+6697	Cre10.g458100	K07112	9194	Poorly characterized
+6705	Cre10.g459000	K06980	9182	Protein families: genetic information processing
+6711	Cre10.g459600	K14832	9182	Protein families: genetic information processing
+6728	Cre10.g461000	K14772	9182	Protein families: genetic information processing
+6751	Cre10.g462200	K11416	9159	Environmental adaptation
+6752	Cre10.g462200	K11416	9161	Cancers: Overview
+6753	Cre10.g462200	K11416	9182	Protein families: genetic information processing
+6762	Cre10.g462750	K11374	9182	Protein families: genetic information processing
+6763	Cre10.g462750	K11374	3036	Chromosome and associated proteins
+6806	Cre10.g466250	K14554	9122	Translation
+6807	Cre10.g466250	K14554	9182	Protein families: genetic information processing
+6836	Cre11.g467547	K01885	9108	Metabolism of cofactors and vitamins
+6837	Cre11.g467547	K01885	9122	Translation
+6838	Cre11.g467547	K01885	9181	Protein families: metabolism
+6839	Cre11.g467547	K01885	9182	Protein families: genetic information processing
+6840	Cre11.g467547	K01885	9183	Protein families: signaling and cellular processes
+6994	Cre11.g467781	K06185	9182	Protein families: genetic information processing
+6999	Cre11.g467850	K13511	9103	Lipid metabolism
+7000	Cre11.g467850	K13511	9181	Protein families: metabolism
+7047	Cre11.g476400	K01247	9124	Replication and repair
+7048	Cre11.g476400	K01247	9182	Protein families: genetic information processing
+7083	Cre11.g478950	K14567	9122	Translation
+7084	Cre11.g478950	K14567	9182	Protein families: genetic information processing
+7115	Cre11.g480800	K14773	9182	Protein families: genetic information processing
+7174	Cre12.g484600	K15336	9182	Protein families: genetic information processing
+7218	Cre12.g488000	K01193	9101	Carbohydrate metabolism
+7219	Cre12.g488000	K01193	500	Starch and sucrose metabolism
+7337	Cre12.g496800	K09008	9159	Environmental adaptation
+7338	Cre12.g496800	K09008	9182	Protein families: genetic information processing
+7347	Cre12.g498100	K03250	9122	Translation
+7348	Cre12.g498100	K03250	9172	Infectious diseases: Viral
+7349	Cre12.g498100	K03250	9182	Protein families: genetic information processing
+7350	Cre12.g498100	K03250	3051	Proteasome
+7351	Cre12.g498100	K03250	9183	Protein families: signaling and cellular processes
+7409	Cre12.g500900	K04706	9123	"Folding	 sorting and degradation"
+7410	Cre12.g500900	K04706	9132	Signal transduction
+7411	Cre12.g500900	K04706	9172	Infectious diseases: Viral
+7412	Cre12.g500900	K04706	9182	Protein families: genetic information processing
+7413	Cre12.g500900	K04706	9183	Protein families: signaling and cellular processes
+7435	Cre12.g502800	K14768	9182	Protein families: genetic information processing
+7437	Cre12.g503150	K17680	9182	Protein families: genetic information processing
+7452	Cre12.g504000	K12603	9123	"Folding	 sorting and degradation"
+7453	Cre12.g504000	K12603	9182	Protein families: genetic information processing
+7499	Cre12.g505200	K14777	9182	Protein families: genetic information processing
+7574	Cre12.g507051	K01193	9101	Carbohydrate metabolism
+7575	Cre12.g507051	K01193	500	Starch and sucrose metabolism
+7593	Cre12.g507650	K03686	9182	Protein families: genetic information processing
+7594	Cre12.g507650	K03686	3029	Mitochondrial biogenesis
+7601	Cre12.g508200	K06961	9182	Protein families: genetic information processing
+7838	Cre12.g509600	K15441	9182	Protein families: genetic information processing
+7872	Cre12.g511700	K14066	9109	Metabolism of terpenoids and polyketides
+7873	Cre12.g511700	K14066	9181	Protein families: metabolism
+7921	Cre12.g512250	K12591	9123	"Folding	 sorting and degradation"
+7922	Cre12.g512250	K12591	9182	Protein families: genetic information processing
+7928	Cre12.g512950	K07240	9183	Protein families: signaling and cellular processes
+7943	Cre12.g513701	K14808	9182	Protein families: genetic information processing
+7945	Cre12.g513950	K09015	9194	Poorly characterized
+8184	Cre12.g526850	K14810	9182	Protein families: genetic information processing
+8251	Cre12.g527950	K02563	9107	Glycan biosynthesis and metabolism
+8252	Cre12.g527950	K02563	9143	Cell growth and death
+8253	Cre12.g527950	K02563	9175	Drug resistance: Antimicrobial
+8254	Cre12.g527950	K02563	9181	Protein families: metabolism
+8266	Cre12.g528950	K14844	9182	Protein families: genetic information processing
+8267	Cre12.g528950	K14844	3009	Ribosome biogenesis
+8281	Cre12.g529500	K14857	9182	Protein families: genetic information processing
+8282	Cre12.g529600	K02999	9121	Transcription
+8283	Cre12.g529600	K02999	9182	Protein families: genetic information processing
+8287	Cre12.g529950	K03260	9122	Translation
+8288	Cre12.g529950	K03260	9166	Cardiovascular diseases
+8289	Cre12.g529950	K03260	9182	Protein families: genetic information processing
+8290	Cre12.g529950	K03260	3012	Translation factors
+8293	Cre12.g530350	K07238	9183	Protein families: signaling and cellular processes
+8350	Cre12.g533050	K14538	9122	Translation
+8351	Cre12.g533050	K14538	9182	Protein families: genetic information processing
+8416	Cre12.g538450	K00993	9103	Lipid metabolism
+8417	Cre12.g538450	K00993	565	Ether lipid metabolism
+8418	Cre12.g538450	K00993	9106	Metabolism of other amino acids
+8419	Cre12.g538500	K14546	9122	Translation
+8420	Cre12.g538500	K14546	9182	Protein families: genetic information processing
+8426	Cre12.g539100	K14811	9182	Protein families: genetic information processing
+8429	Cre12.g540200	K12823	9121	Transcription
+8430	Cre12.g540200	K12823	9161	Cancers: Overview
+8431	Cre12.g540200	K12823	5205	Proteoglycans in cancer
+8432	Cre12.g540200	K12823	9182	Protein families: genetic information processing
+8433	Cre12.g540200	K12823	3009	Ribosome biogenesis
+8445	Cre12.g542100	K01322	9152	Endocrine system
+8446	Cre12.g542100	K01322	9181	Protein families: metabolism
+8465	Cre12.g543100	K03256	9182	Protein families: genetic information processing
+8506	Cre12.g545000	K16615	9183	Protein families: signaling and cellular processes
+8526	Cre12.g548000	K14550	9122	Translation
+8527	Cre12.g548000	K14550	9182	Protein families: genetic information processing
+8529	Cre12.g548250	K13216	9181	Protein families: metabolism
+8530	Cre12.g548250	K13216	9182	Protein families: genetic information processing
+8639	Cre12.g556650	K03351	9123	"Folding	 sorting and degradation"
+8640	Cre12.g556650	K03351	9143	Cell growth and death
+8641	Cre12.g556650	K03351	4111	Cell cycle - yeast
+8642	Cre12.g556650	K03351	4113	Meiosis - yeast
+8643	Cre12.g556650	K03351	4114	Oocyte meiosis
+8644	Cre12.g556650	K03351	9152	Endocrine system
+8645	Cre12.g556650	K03351	9172	Infectious diseases: Viral
+8646	Cre12.g556650	K03351	9182	Protein families: genetic information processing
+8647	Cre12.g556650	K03351	3036	Chromosome and associated proteins
+8671	Cre12.g557700	K01069	9101	Carbohydrate metabolism
+8679	Cre12.g558100	K11434	9132	Signal transduction
+8680	Cre12.g558100	K11434	9152	Endocrine system
+8681	Cre12.g558100	K11434	9182	Protein families: genetic information processing
+8724	Cre12.g560300	K12741	9121	Transcription
+8725	Cre12.g560300	K12741	9182	Protein families: genetic information processing
+8726	Cre12.g560300	K12741	3041	Spliceosome
+8847	Cre13.g563850	K18213	9122	Translation
+8848	Cre13.g563850	K18213	9182	Protein families: genetic information processing
+9039	Cre13.g573050	K14769	9182	Protein families: genetic information processing
+9061	Cre13.g575000	K07399	9192	Unclassified: genetic information processing
+9165	Cre13.g580550	K11426	9182	Protein families: genetic information processing
+9172	Cre13.g580900	K07178	9122	Translation
+9173	Cre13.g580900	K07178	9181	Protein families: metabolism
+9174	Cre13.g580900	K07178	9182	Protein families: genetic information processing
+9179	Cre13.g581550	K10761	9182	Protein families: genetic information processing
+9180	Cre13.g581750	K10752	9143	Cell growth and death
+9181	Cre13.g581750	K10752	9182	Protein families: genetic information processing
+9199	Cre13.g584750	K18162	9159	Environmental adaptation
+9200	Cre13.g584750	K18162	9182	Protein families: genetic information processing
+9208	Cre13.g585651	K11793	9182	Protein families: genetic information processing
+9220	Cre13.g587000	K14782	9182	Protein families: genetic information processing
+9221	Cre13.g587050	K03265	9122	Translation
+9222	Cre13.g587050	K03265	9182	Protein families: genetic information processing
+9223	Cre13.g587050	K03265	3012	Translation factors
+9286	Cre13.g592300	K05543	9182	Protein families: genetic information processing
+9330	Cre13.g606850	K14548	9122	Translation
+9331	Cre13.g606850	K14548	9182	Protein families: genetic information processing
+9368	Cre14.g613850	K12585	9123	"Folding	 sorting and degradation"
+9369	Cre14.g613850	K12585	9182	Protein families: genetic information processing
+9388	Cre14.g615500	K01409	9182	Protein families: genetic information processing
+9389	Cre14.g615950	K03235	9182	Protein families: genetic information processing
+9390	Cre14.g616100	K14826	9182	Protein families: genetic information processing
+9583	Cre14.g621250	K09668	9107	Glycan biosynthesis and metabolism
+9584	Cre14.g621250	K09668	9181	Protein families: metabolism
+9652	Cre14.g624350	K18534	9108	Metabolism of cofactors and vitamins
+9670	Cre14.g626950	K06210	9108	Metabolism of cofactors and vitamins
+9685	Cre14.g628400	K01872	9122	Translation
+9686	Cre14.g628400	K01872	9181	Protein families: metabolism
+9687	Cre14.g628400	K01872	9182	Protein families: genetic information processing
+9694	Cre14.g629300	K11855	9181	Protein families: metabolism
+9695	Cre14.g629300	K11855	9182	Protein families: genetic information processing
+9750	Cre15.g635350	K05931	9176	Drug resistance: Antineoplastic
+9751	Cre15.g635350	K05931	9182	Protein families: genetic information processing
+9766	Cre15.g636450	K15190	9182	Protein families: genetic information processing
+9785	Cre15.g640250	K07562	9122	Translation
+9786	Cre15.g640250	K07562	3008	Ribosome biogenesis in eukaryotes
+9787	Cre15.g640250	K07562	9182	Protein families: genetic information processing
+9830	Cre16.g647602	K19001	9182	Protein families: genetic information processing
+9869	Cre16.g649600	K14790	9182	Protein families: genetic information processing
+9881	Cre16.g650200	K15115	9183	Protein families: signaling and cellular processes
+9983	Cre16.g658450	K03977	9182	Protein families: genetic information processing
+9996	Cre16.g659600	K14834	9182	Protein families: genetic information processing
+10061	Cre16.g663900	K01749	9108	Metabolism of cofactors and vitamins
+10149	Cre16.g665950	K10737	9182	Protein families: genetic information processing
+10251	Cre16.g670550	K15338	9182	Protein families: genetic information processing
+10311	Cre16.g673700	K14799	9182	Protein families: genetic information processing
+10406	Cre16.g678437	K15747	9109	Metabolism of terpenoids and polyketides
+10407	Cre16.g678437	K15747	9181	Protein families: metabolism
+10408	Cre16.g678850	K01641	9101	Carbohydrate metabolism
+10409	Cre16.g678850	K01641	9103	Lipid metabolism
+10410	Cre16.g678850	K01641	9105	Amino acid metabolism
+10411	Cre16.g678850	K01641	9109	Metabolism of terpenoids and polyketides
+10447	Cre16.g680100	K00783	9182	Protein families: genetic information processing
+10460	Cre16.g680944	K14539	9122	Translation
+10461	Cre16.g680944	K14539	9182	Protein families: genetic information processing
+10494	Cre16.g682950	K10994	9143	Cell growth and death
+10495	Cre16.g682950	K10994	9182	Protein families: genetic information processing
+10502	Cre16.g683437	K16278	9182	Protein families: genetic information processing
+10506	Cre16.g683500	K14778	9182	Protein families: genetic information processing
+10510	Cre16.g683793	K14843	9182	Protein families: genetic information processing
+10604	Cre16.g690250	K03177	9182	Protein families: genetic information processing
+10619	Cre16.g691900	K06173	9182	Protein families: genetic information processing
+10665	Cre17.g697624	K12587	9123	"Folding	 sorting and degradation"
+10666	Cre17.g697624	K12587	9182	Protein families: genetic information processing
+10670	Cre17.g697934	K18156	9182	Protein families: genetic information processing
+10824	Cre17.g710100	K14863	9182	Protein families: genetic information processing
+10849	Cre17.g710850	K15285	9183	Protein families: signaling and cellular processes
+10850	Cre17.g711050	K15456	9182	Protein families: genetic information processing
+10965	Cre17.g716400	K14816	9182	Protein families: genetic information processing
+10985	Cre17.g718650	K14841	9182	Protein families: genetic information processing
+11095	Cre17.g725450	K11789	9172	Infectious diseases: Viral
+11096	Cre17.g725450	K11789	9181	Protein families: metabolism
+11097	Cre17.g725450	K11789	9182	Protein families: genetic information processing
+11122	Cre17.g727650	K05663	9131	Membrane transport
+11123	Cre17.g727650	K05663	9183	Protein families: signaling and cellular processes
+11124	Cre17.g727700	K16911	9182	Protein families: genetic information processing
+11125	Cre17.g727700	K16911	3036	Chromosome and associated proteins
+11154	Cre17.g731050	K12608	9123	"Folding	 sorting and degradation"
+11155	Cre17.g731050	K12608	9182	Protein families: genetic information processing
+11156	Cre17.g731250	K02956	9122	Translation
+11157	Cre17.g731250	K02956	9182	Protein families: genetic information processing
+11176	Cre17.g732650	K17601	9181	Protein families: metabolism
+11188	Cre17.g734150	K17607	9141	Transport and catabolism
+11189	Cre17.g734150	K17607	9181	Protein families: metabolism
+11295	Cre17.g744447	K14950	9191	Unclassified: metabolism
+11298	Cre17.g746247	K11430	9105	Amino acid metabolism
+11299	Cre17.g746247	K11430	9161	Cancers: Overview
+11300	Cre17.g746247	K11430	9182	Protein families: genetic information processing
+11315	Cre17.g747297	K04794	9182	Protein families: genetic information processing

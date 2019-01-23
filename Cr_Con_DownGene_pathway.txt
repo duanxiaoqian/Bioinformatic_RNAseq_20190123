@@ -1,0 +1,1860 @@
+Unnamed: 0	Geneid	KO	Pathway_ko	Definition
+0	Cre01.g000150	K14709	9183	Protein families: signaling and cellular processes
+9	Cre01.g001400	K13539	9181	Protein families: metabolism
+10	Cre01.g001400	K13539	9182	Protein families: genetic information processing
+11	Cre01.g001550	K02520	9182	Protein families: genetic information processing
+12	Cre01.g001550	K02520	3029	Mitochondrial biogenesis
+13	Cre01.g001800	K08857	9181	Protein families: metabolism
+14	Cre01.g001800	K08857	9182	Protein families: genetic information processing
+15	Cre01.g001800	K08857	3400	DNA repair and recombination proteins
+44	Cre01.g003524	K13412	9159	Environmental adaptation
+45	Cre01.g003524	K13412	9174	Infectious diseases: Parasitic
+46	Cre01.g003524	K13412	9181	Protein families: metabolism
+47	Cre01.g004250	K10420	9183	Protein families: signaling and cellular processes
+63	Cre01.g005550	K07943	9182	Protein families: genetic information processing
+64	Cre01.g005550	K07943	9183	Protein families: signaling and cellular processes
+67	Cre01.g006800	K03857	9107	Glycan biosynthesis and metabolism
+68	Cre01.g006800	K03857	9181	Protein families: metabolism
+84	Cre01.g007651	K06176	9182	Protein families: genetic information processing
+88	Cre01.g007950	K15877	9102	Energy metabolism
+95	Cre01.g009500	K13412	9159	Environmental adaptation
+96	Cre01.g009500	K13412	9174	Infectious diseases: Parasitic
+97	Cre01.g009500	K13412	9181	Protein families: metabolism
+98	Cre01.g009950	K14568	9122	Translation
+99	Cre01.g009950	K14568	9182	Protein families: genetic information processing
+105	Cre01.g010864	K02836	9182	Protein families: genetic information processing
+106	Cre01.g010880	K18598	9193	Unclassified: signaling and cellular processes
+132	Cre01.g013400	K05291	9107	Glycan biosynthesis and metabolism
+162	Cre01.g015350	K00218	9108	Metabolism of cofactors and vitamins
+198	Cre01.g018000	K03000	9121	Transcription
+199	Cre01.g018000	K03000	9182	Protein families: genetic information processing
+257	Cre01.g021251	K01755	9105	Amino acid metabolism
+258	Cre01.g021251	K01755	220	Arginine biosynthesis
+259	Cre01.g021251	K01755	9183	Protein families: signaling and cellular processes
+260	Cre01.g021500	K15377	9161	Cancers: Overview
+261	Cre01.g021500	K15377	9183	Protein families: signaling and cellular processes
+262	Cre01.g021500	K15377	4147	Exosome
+268	Cre01.g021950	K10408	9164	Neurodegenerative diseases
+269	Cre01.g021950	K10408	9183	Protein families: signaling and cellular processes
+290	Cre01.g024500	K16484	9182	Protein families: genetic information processing
+301	Cre01.g025250	K00861	9108	Metabolism of cofactors and vitamins
+304	Cre01.g025400	K17570	9181	Protein families: metabolism
+383	Cre01.g029750	K00939	9104	Nucleotide metabolism
+384	Cre01.g029750	K00939	9108	Metabolism of cofactors and vitamins
+385	Cre01.g029750	K00939	9183	Protein families: signaling and cellular processes
+393	Cre01.g030650	K01669	9182	Protein families: genetic information processing
+400	Cre01.g030950	K15901	9182	Protein families: genetic information processing
+475	Cre01.g036800	K10397	9183	Protein families: signaling and cellular processes
+477	Cre01.g037350	K17361	9181	Protein families: metabolism
+513	Cre01.g039200	K07935	9182	Protein families: genetic information processing
+514	Cre01.g039200	K07935	9183	Protein families: signaling and cellular processes
+548	Cre01.g042750	K01681	9101	Carbohydrate metabolism
+549	Cre01.g042750	K01681	630	Glyoxylate and dicarboxylate metabolism
+550	Cre01.g042750	K01681	9102	Energy metabolism
+556	Cre01.g043750	K16749	9182	Protein families: genetic information processing
+581	Cre01.g045601	K13912	9154	Digestive system
+586	Cre01.g046652	K01866	9122	Translation
+587	Cre01.g046652	K01866	9181	Protein families: metabolism
+588	Cre01.g046652	K01866	9182	Protein families: genetic information processing
+589	Cre01.g046652	K01866	3029	Mitochondrial biogenesis
+602	Cre01.g047900	K11583	9122	Translation
+603	Cre01.g047900	K11583	9132	Signal transduction
+604	Cre01.g047900	K11583	4151	PI3K-Akt signaling pathway
+605	Cre01.g047900	K11583	4152	AMPK signaling pathway
+606	Cre01.g047900	K11583	9153	Circulatory system
+607	Cre01.g047900	K11583	9156	Nervous system
+608	Cre01.g047900	K11583	9172	Infectious diseases: Viral
+609	Cre01.g047900	K11583	9181	Protein families: metabolism
+610	Cre01.g047900	K11583	9182	Protein families: genetic information processing
+611	Cre01.g047950	K07934	9182	Protein families: genetic information processing
+612	Cre01.g047950	K07934	9183	Protein families: signaling and cellular processes
+616	Cre01.g048950	K13421	9104	Nucleotide metabolism
+617	Cre01.g048950	K13421	9111	Xenobiotics biodegradation and metabolism
+618	Cre01.g049132	K01922	9108	Metabolism of cofactors and vitamins
+628	Cre01.g050050	K18477	9182	Protein families: genetic information processing
+630	Cre01.g050451	K16582	9182	Protein families: genetic information processing
+631	Cre01.g050451	K16582	9183	Protein families: signaling and cellular processes
+632	Cre01.g050950	K10960	9108	Metabolism of cofactors and vitamins
+633	Cre01.g050950	K10960	9109	Metabolism of terpenoids and polyketides
+640	Cre01.g051250	K02183	9132	Signal transduction
+641	Cre01.g051250	K02183	4015	Rap1 signaling pathway
+642	Cre01.g051250	K02183	4016	MAPK signaling pathway - plant
+643	Cre01.g051250	K02183	4371	Apelin signaling pathway
+644	Cre01.g051250	K02183	4020	Calcium signaling pathway
+645	Cre01.g051250	K02183	4070	Phosphatidylinositol signaling system
+646	Cre01.g051250	K02183	4024	cAMP signaling pathway
+647	Cre01.g051250	K02183	4022	cGMP-PKG signaling pathway
+648	Cre01.g051250	K02183	9143	Cell growth and death
+649	Cre01.g051250	K02183	4218	Cellular senescence
+650	Cre01.g051250	K02183	9151	Immune system
+651	Cre01.g051250	K02183	9152	Endocrine system
+652	Cre01.g051250	K02183	4922	Glucagon signaling pathway
+653	Cre01.g051250	K02183	4912	GnRH signaling pathway
+654	Cre01.g051250	K02183	4915	Estrogen signaling pathway
+655	Cre01.g051250	K02183	4921	Oxytocin signaling pathway
+656	Cre01.g051250	K02183	4916	Melanogenesis
+657	Cre01.g051250	K02183	4924	Renin secretion
+658	Cre01.g051250	K02183	4925	Aldosterone synthesis and secretion
+659	Cre01.g051250	K02183	9153	Circulatory system
+660	Cre01.g051250	K02183	4270	Vascular smooth muscle contraction
+661	Cre01.g051250	K02183	9154	Digestive system
+662	Cre01.g051250	K02183	4971	Gastric acid secretion
+663	Cre01.g051250	K02183	9156	Nervous system
+664	Cre01.g051250	K02183	4720	Long-term potentiation
+665	Cre01.g051250	K02183	4722	Neurotrophin signaling pathway
+666	Cre01.g051250	K02183	9157	Sensory system
+667	Cre01.g051250	K02183	4745	Phototransduction - fly
+668	Cre01.g051250	K02183	4740	Olfactory transduction
+669	Cre01.g051250	K02183	4750	Inflammatory mediator regulation of TRP channels
+670	Cre01.g051250	K02183	9159	Environmental adaptation
+671	Cre01.g051250	K02183	4626	Plant-pathogen interaction
+672	Cre01.g051250	K02183	9161	Cancers: Overview
+673	Cre01.g051250	K02183	9162	Cancers: Specific types
+674	Cre01.g051250	K02183	9164	Neurodegenerative diseases
+675	Cre01.g051250	K02183	9165	Substance dependence
+676	Cre01.g051250	K02183	5034	Alcoholism
+677	Cre01.g051250	K02183	9166	Cardiovascular diseases
+678	Cre01.g051250	K02183	9171	Infectious diseases: Bacterial
+679	Cre01.g051250	K02183	5152	Tuberculosis
+680	Cre01.g051250	K02183	9172	Infectious diseases: Viral
+681	Cre01.g051250	K02183	5163	Human cytomegalovirus infection
+682	Cre01.g051250	K02183	5167	Kaposi sarcoma-associated herpesvirus infection
+683	Cre01.g051250	K02183	9181	Protein families: metabolism
+684	Cre01.g051250	K02183	9182	Protein families: genetic information processing
+685	Cre01.g051250	K02183	3036	Chromosome and associated proteins
+686	Cre01.g051250	K02183	9183	Protein families: signaling and cellular processes
+700	Cre01.g052250	K03671	9151	Immune system
+701	Cre01.g052250	K03671	9166	Cardiovascular diseases
+702	Cre01.g052250	K03671	9182	Protein families: genetic information processing
+730	Cre01.g052650	K13024	9132	Signal transduction
+756	Cre01.g054500	K00323	9108	Metabolism of cofactors and vitamins
+757	Cre01.g055050	K08597	9181	Protein families: metabolism
+758	Cre01.g055050	K08597	9182	Protein families: genetic information processing
+815	Cre01.g066552	K03671	9151	Immune system
+816	Cre01.g066552	K03671	9166	Cardiovascular diseases
+817	Cre01.g066552	K03671	9182	Protein families: genetic information processing
+843	Cre02.g073750	K10397	9183	Protein families: signaling and cellular processes
+846	Cre02.g074370	K13412	9159	Environmental adaptation
+847	Cre02.g074370	K13412	9174	Infectious diseases: Parasitic
+848	Cre02.g074370	K13412	9181	Protein families: metabolism
+849	Cre02.g074850	K08850	9181	Protein families: metabolism
+850	Cre02.g074850	K08850	9182	Protein families: genetic information processing
+869	Cre02.g076300	K01599	9108	Metabolism of cofactors and vitamins
+905	Cre02.g078300	K00432	9103	Lipid metabolism
+906	Cre02.g078300	K00432	9106	Metabolism of other amino acids
+907	Cre02.g078300	K00432	9152	Endocrine system
+911	Cre02.g078858	K04505	9132	Signal transduction
+912	Cre02.g078858	K04505	4330	Notch signaling pathway
+913	Cre02.g078858	K04505	9156	Nervous system
+914	Cre02.g078858	K04505	9164	Neurodegenerative diseases
+915	Cre02.g078858	K04505	9172	Infectious diseases: Viral
+916	Cre02.g078858	K04505	9181	Protein families: metabolism
+920	Cre02.g079050	K14457	9103	Lipid metabolism
+921	Cre02.g079050	K14457	9154	Digestive system
+935	Cre02.g079700	K00609	9104	Nucleotide metabolism
+936	Cre02.g079700	K00609	9105	Amino acid metabolism
+994	Cre02.g081550	K18532	9104	Nucleotide metabolism
+995	Cre02.g081550	K18532	9122	Translation
+996	Cre02.g081550	K18532	9182	Protein families: genetic information processing
+1020	Cre02.g083600	K06942	9182	Protein families: genetic information processing
+1027	Cre02.g084450	K00472	9105	Amino acid metabolism
+1035	Cre02.g085450	K00228	9108	Metabolism of cofactors and vitamins
+1086	Cre02.g089608	K11136	9182	Protein families: genetic information processing
+1088	Cre02.g089950	K16473	9182	Protein families: genetic information processing
+1117	Cre02.g092600	K00228	9108	Metabolism of cofactors and vitamins
+1119	Cre02.g092850	K10411	9164	Neurodegenerative diseases
+1120	Cre02.g092850	K10411	9183	Protein families: signaling and cellular processes
+1137	Cre02.g093975	K12837	9121	Transcription
+1138	Cre02.g093975	K12837	9182	Protein families: genetic information processing
+1147	Cre02.g095069	K03564	9191	Unclassified: metabolism
+1150	Cre02.g095071	K01148	9123	"Folding	 sorting and degradation"
+1151	Cre02.g095071	K01148	9182	Protein families: genetic information processing
+1166	Cre02.g095110	K17553	9181	Protein families: metabolism
+1171	Cre02.g095300	K08824	9181	Protein families: metabolism
+1188	Cre02.g097000	K01464	9104	Nucleotide metabolism
+1189	Cre02.g097000	K01464	9106	Metabolism of other amino acids
+1190	Cre02.g097000	K01464	9108	Metabolism of cofactors and vitamins
+1191	Cre02.g097000	K01464	9111	Xenobiotics biodegradation and metabolism
+1192	Cre02.g097000	K01464	9183	Protein families: signaling and cellular processes
+1274	Cre02.g102500	K10870	9124	Replication and repair
+1275	Cre02.g102500	K10870	3460	Fanconi anemia pathway
+1276	Cre02.g102500	K10870	9182	Protein families: genetic information processing
+1295	Cre02.g105400	K06639	9143	Cell growth and death
+1296	Cre02.g105400	K06639	4111	Cell cycle - yeast
+1297	Cre02.g105400	K06639	4113	Meiosis - yeast
+1298	Cre02.g105400	K06639	9181	Protein families: metabolism
+1339	Cre02.g107050	K10408	9164	Neurodegenerative diseases
+1340	Cre02.g107050	K10408	9183	Protein families: signaling and cellular processes
+1343	Cre02.g107350	K10408	9164	Neurodegenerative diseases
+1344	Cre02.g107350	K10408	9183	Protein families: signaling and cellular processes
+1352	Cre02.g107800	K08857	9181	Protein families: metabolism
+1353	Cre02.g107800	K08857	9182	Protein families: genetic information processing
+1354	Cre02.g107800	K08857	3400	DNA repair and recombination proteins
+1372	Cre02.g109600	K01092	9101	Carbohydrate metabolism
+1373	Cre02.g109600	K01092	9110	Biosynthesis of other secondary metabolites
+1374	Cre02.g109600	K01092	9132	Signal transduction
+1376	Cre02.g110100	K02183	9132	Signal transduction
+1377	Cre02.g110100	K02183	4015	Rap1 signaling pathway
+1378	Cre02.g110100	K02183	4016	MAPK signaling pathway - plant
+1379	Cre02.g110100	K02183	4371	Apelin signaling pathway
+1380	Cre02.g110100	K02183	4020	Calcium signaling pathway
+1381	Cre02.g110100	K02183	4070	Phosphatidylinositol signaling system
+1382	Cre02.g110100	K02183	4024	cAMP signaling pathway
+1383	Cre02.g110100	K02183	4022	cGMP-PKG signaling pathway
+1384	Cre02.g110100	K02183	9143	Cell growth and death
+1385	Cre02.g110100	K02183	4218	Cellular senescence
+1386	Cre02.g110100	K02183	9151	Immune system
+1387	Cre02.g110100	K02183	9152	Endocrine system
+1388	Cre02.g110100	K02183	4922	Glucagon signaling pathway
+1389	Cre02.g110100	K02183	4912	GnRH signaling pathway
+1390	Cre02.g110100	K02183	4915	Estrogen signaling pathway
+1391	Cre02.g110100	K02183	4921	Oxytocin signaling pathway
+1392	Cre02.g110100	K02183	4916	Melanogenesis
+1393	Cre02.g110100	K02183	4924	Renin secretion
+1394	Cre02.g110100	K02183	4925	Aldosterone synthesis and secretion
+1395	Cre02.g110100	K02183	9153	Circulatory system
+1396	Cre02.g110100	K02183	4270	Vascular smooth muscle contraction
+1397	Cre02.g110100	K02183	9154	Digestive system
+1398	Cre02.g110100	K02183	4971	Gastric acid secretion
+1399	Cre02.g110100	K02183	9156	Nervous system
+1400	Cre02.g110100	K02183	4720	Long-term potentiation
+1401	Cre02.g110100	K02183	4722	Neurotrophin signaling pathway
+1402	Cre02.g110100	K02183	9157	Sensory system
+1403	Cre02.g110100	K02183	4745	Phototransduction - fly
+1404	Cre02.g110100	K02183	4740	Olfactory transduction
+1405	Cre02.g110100	K02183	4750	Inflammatory mediator regulation of TRP channels
+1406	Cre02.g110100	K02183	9159	Environmental adaptation
+1407	Cre02.g110100	K02183	4626	Plant-pathogen interaction
+1408	Cre02.g110100	K02183	9161	Cancers: Overview
+1409	Cre02.g110100	K02183	9162	Cancers: Specific types
+1410	Cre02.g110100	K02183	9164	Neurodegenerative diseases
+1411	Cre02.g110100	K02183	9165	Substance dependence
+1412	Cre02.g110100	K02183	5034	Alcoholism
+1413	Cre02.g110100	K02183	9166	Cardiovascular diseases
+1414	Cre02.g110100	K02183	9171	Infectious diseases: Bacterial
+1415	Cre02.g110100	K02183	5152	Tuberculosis
+1416	Cre02.g110100	K02183	9172	Infectious diseases: Viral
+1417	Cre02.g110100	K02183	5163	Human cytomegalovirus infection
+1418	Cre02.g110100	K02183	5167	Kaposi sarcoma-associated herpesvirus infection
+1419	Cre02.g110100	K02183	9181	Protein families: metabolism
+1420	Cre02.g110100	K02183	9182	Protein families: genetic information processing
+1421	Cre02.g110100	K02183	3036	Chromosome and associated proteins
+1422	Cre02.g110100	K02183	9183	Protein families: signaling and cellular processes
+1425	Cre02.g110800	K02575	9102	Energy metabolism
+1426	Cre02.g110800	K02575	9183	Protein families: signaling and cellular processes
+1427	Cre02.g110850	K04427	9132	Signal transduction
+1428	Cre02.g110850	K04427	4013	MAPK signaling pathway - fly
+1429	Cre02.g110850	K04427	4310	Wnt signaling pathway
+1430	Cre02.g110850	K04427	4064	NF-kappa B signaling pathway
+1431	Cre02.g110850	K04427	4668	TNF signaling pathway
+1432	Cre02.g110850	K04427	4152	AMPK signaling pathway
+1433	Cre02.g110850	K04427	9141	Transport and catabolism
+1434	Cre02.g110850	K04427	9143	Cell growth and death
+1435	Cre02.g110850	K04427	9144	Cellular community - eukaryotes
+1436	Cre02.g110850	K04427	9151	Immune system
+1437	Cre02.g110850	K04427	4624	Toll and Imd signaling pathway
+1438	Cre02.g110850	K04427	4621	NOD-like receptor signaling pathway
+1439	Cre02.g110850	K04427	4622	RIG-I-like receptor signaling pathway
+1440	Cre02.g110850	K04427	4660	T cell receptor signaling pathway
+1441	Cre02.g110850	K04427	4657	IL-17 signaling pathway
+1442	Cre02.g110850	K04427	9158	Development
+1443	Cre02.g110850	K04427	9166	Cardiovascular diseases
+1444	Cre02.g110850	K04427	9172	Infectious diseases: Viral
+1445	Cre02.g110850	K04427	5162	Measles
+1446	Cre02.g110850	K04427	5168	Herpes simplex infection
+1447	Cre02.g110850	K04427	5169	Epstein-Barr virus infection
+1448	Cre02.g110850	K04427	9174	Infectious diseases: Parasitic
+1449	Cre02.g110850	K04427	5140	Leishmaniasis
+1450	Cre02.g110850	K04427	9181	Protein families: metabolism
+1451	Cre02.g111014	K08824	9181	Protein families: metabolism
+1453	Cre02.g112000	K14997	9183	Protein families: signaling and cellular processes
+1454	Cre02.g112250	K08582	9181	Protein families: metabolism
+1455	Cre02.g112300	K08582	9181	Protein families: metabolism
+1459	Cre02.g112500	K08850	9181	Protein families: metabolism
+1460	Cre02.g112500	K08850	9182	Protein families: genetic information processing
+1461	Cre02.g112850	K06126	9108	Metabolism of cofactors and vitamins
+1474	Cre02.g113850	K01749	9108	Metabolism of cofactors and vitamins
+1482	Cre02.g114750	K13412	9159	Environmental adaptation
+1483	Cre02.g114750	K13412	9174	Infectious diseases: Parasitic
+1484	Cre02.g114750	K13412	9181	Protein families: metabolism
+1489	Cre02.g115650	K01623	9101	Carbohydrate metabolism
+1490	Cre02.g115650	K01623	30	Pentose phosphate pathway
+1491	Cre02.g115650	K01623	51	Fructose and mannose metabolism
+1492	Cre02.g115650	K01623	9102	Energy metabolism
+1493	Cre02.g115650	K01623	680	Methane metabolism
+1494	Cre02.g115650	K01623	9182	Protein families: genetic information processing
+1495	Cre02.g115650	K01623	3036	Chromosome and associated proteins
+1496	Cre02.g115650	K01623	9183	Protein families: signaling and cellular processes
+1499	Cre02.g116450	K01783	9101	Carbohydrate metabolism
+1500	Cre02.g116450	K01783	40	Pentose and glucuronate interconversions
+1501	Cre02.g116450	K01783	9102	Energy metabolism
+1561	Cre02.g141400	K01610	9101	Carbohydrate metabolism
+1562	Cre02.g141400	K01610	20	Citrate cycle (TCA cycle)\n
+1563	Cre02.g141400	K01610	620	Pyruvate metabolism
+1564	Cre02.g141400	K01610	9102	Energy metabolism
+1568	Cre02.g141606	K10408	9164	Neurodegenerative diseases
+1569	Cre02.g141606	K10408	9183	Protein families: signaling and cellular processes
+1570	Cre02.g141626	K11438	9182	Protein families: genetic information processing
+1586	Cre02.g142266	K15747	9109	Metabolism of terpenoids and polyketides
+1587	Cre02.g142266	K15747	9181	Protein families: metabolism
+1593	Cre02.g142602	K17582	9181	Protein families: metabolism
+1618	Cre02.g144350	K19372	9182	Protein families: genetic information processing
+1624	Cre02.g144750	K14640	9183	Protein families: signaling and cellular processes
+1627	Cre02.g145050	K00919	9109	Metabolism of terpenoids and polyketides
+1690	Cre02.g147900	K00873	9101	Carbohydrate metabolism
+1691	Cre02.g147900	K00873	620	Pyruvate metabolism
+1692	Cre02.g147900	K00873	9104	Nucleotide metabolism
+1693	Cre02.g147900	K00873	9152	Endocrine system
+1694	Cre02.g147900	K00873	9161	Cancers: Overview
+1695	Cre02.g147900	K00873	5203	Viral carcinogenesis
+1696	Cre02.g147900	K00873	9167	Endocrine and metabolic diseases
+1697	Cre02.g147900	K00873	9172	Infectious diseases: Viral
+1698	Cre02.g147900	K00873	9182	Protein families: genetic information processing
+1699	Cre02.g147900	K00873	9183	Protein families: signaling and cellular processes
+1708	Cre03.g144484	K13412	9159	Environmental adaptation
+1709	Cre03.g144484	K13412	9174	Infectious diseases: Parasitic
+1710	Cre03.g144484	K13412	9181	Protein families: metabolism
+1714	Cre03.g144807	K01638	9101	Carbohydrate metabolism
+1715	Cre03.g144807	K01638	630	Glyoxylate and dicarboxylate metabolism
+1731	Cre03.g145127	K10408	9164	Neurodegenerative diseases
+1732	Cre03.g145127	K10408	9183	Protein families: signaling and cellular processes
+1736	Cre03.g145447	K16608	9183	Protein families: signaling and cellular processes
+1781	Cre03.g149100	K01647	9101	Carbohydrate metabolism
+1782	Cre03.g149100	K01647	630	Glyoxylate and dicarboxylate metabolism
+1875	Cre03.g156900	K08912	9102	Energy metabolism
+1876	Cre03.g156900	K08912	9181	Protein families: metabolism
+1879	Cre03.g158000	K01845	9108	Metabolism of cofactors and vitamins
+1880	Cre03.g158000	K01845	9181	Protein families: metabolism
+1916	Cre03.g161000	K01488	9104	Nucleotide metabolism
+1917	Cre03.g161000	K01488	9163	Immune diseases
+1921	Cre03.g161800	K14572	9122	Translation
+1922	Cre03.g161800	K14572	9182	Protein families: genetic information processing
+1942	Cre03.g163050	K09955	9194	Poorly characterized
+1955	Cre03.g164600	K01535	9102	Energy metabolism
+1989	Cre03.g167550	K16533	9182	Protein families: genetic information processing
+2035	Cre03.g171950	K01595	9101	Carbohydrate metabolism
+2036	Cre03.g171950	K01595	9102	Energy metabolism
+2037	Cre03.g171950	K01595	720	Carbon fixation pathways in prokaryotes
+2038	Cre03.g171950	K01595	680	Methane metabolism
+2057	Cre03.g172650	K10391	9182	Protein families: genetic information processing
+2058	Cre03.g172650	K10391	9183	Protein families: signaling and cellular processes
+2063	Cre03.g172950	K11131	9122	Translation
+2064	Cre03.g172950	K11131	9182	Protein families: genetic information processing
+2065	Cre03.g172950	K11131	3032	DNA replication proteins
+2072	Cre03.g173800	K00868	9108	Metabolism of cofactors and vitamins
+2077	Cre03.g174750	K03768	9182	Protein families: genetic information processing
+2170	Cre03.g178350	K02183	9132	Signal transduction
+2171	Cre03.g178350	K02183	4015	Rap1 signaling pathway
+2172	Cre03.g178350	K02183	4016	MAPK signaling pathway - plant
+2173	Cre03.g178350	K02183	4371	Apelin signaling pathway
+2174	Cre03.g178350	K02183	4020	Calcium signaling pathway
+2175	Cre03.g178350	K02183	4070	Phosphatidylinositol signaling system
+2176	Cre03.g178350	K02183	4024	cAMP signaling pathway
+2177	Cre03.g178350	K02183	4022	cGMP-PKG signaling pathway
+2178	Cre03.g178350	K02183	9143	Cell growth and death
+2179	Cre03.g178350	K02183	4218	Cellular senescence
+2180	Cre03.g178350	K02183	9151	Immune system
+2181	Cre03.g178350	K02183	9152	Endocrine system
+2182	Cre03.g178350	K02183	4922	Glucagon signaling pathway
+2183	Cre03.g178350	K02183	4912	GnRH signaling pathway
+2184	Cre03.g178350	K02183	4915	Estrogen signaling pathway
+2185	Cre03.g178350	K02183	4921	Oxytocin signaling pathway
+2186	Cre03.g178350	K02183	4916	Melanogenesis
+2187	Cre03.g178350	K02183	4924	Renin secretion
+2188	Cre03.g178350	K02183	4925	Aldosterone synthesis and secretion
+2189	Cre03.g178350	K02183	9153	Circulatory system
+2190	Cre03.g178350	K02183	4270	Vascular smooth muscle contraction
+2191	Cre03.g178350	K02183	9154	Digestive system
+2192	Cre03.g178350	K02183	4971	Gastric acid secretion
+2193	Cre03.g178350	K02183	9156	Nervous system
+2194	Cre03.g178350	K02183	4720	Long-term potentiation
+2195	Cre03.g178350	K02183	4722	Neurotrophin signaling pathway
+2196	Cre03.g178350	K02183	9157	Sensory system
+2197	Cre03.g178350	K02183	4745	Phototransduction - fly
+2198	Cre03.g178350	K02183	4740	Olfactory transduction
+2199	Cre03.g178350	K02183	4750	Inflammatory mediator regulation of TRP channels
+2200	Cre03.g178350	K02183	9159	Environmental adaptation
+2201	Cre03.g178350	K02183	4626	Plant-pathogen interaction
+2202	Cre03.g178350	K02183	9161	Cancers: Overview
+2203	Cre03.g178350	K02183	9162	Cancers: Specific types
+2204	Cre03.g178350	K02183	9164	Neurodegenerative diseases
+2205	Cre03.g178350	K02183	9165	Substance dependence
+2206	Cre03.g178350	K02183	5034	Alcoholism
+2207	Cre03.g178350	K02183	9166	Cardiovascular diseases
+2208	Cre03.g178350	K02183	9171	Infectious diseases: Bacterial
+2209	Cre03.g178350	K02183	5152	Tuberculosis
+2210	Cre03.g178350	K02183	9172	Infectious diseases: Viral
+2211	Cre03.g178350	K02183	5163	Human cytomegalovirus infection
+2212	Cre03.g178350	K02183	5167	Kaposi sarcoma-associated herpesvirus infection
+2213	Cre03.g178350	K02183	9181	Protein families: metabolism
+2214	Cre03.g178350	K02183	9182	Protein families: genetic information processing
+2215	Cre03.g178350	K02183	3036	Chromosome and associated proteins
+2216	Cre03.g178350	K02183	9183	Protein families: signaling and cellular processes
+2253	Cre03.g180450	K01081	9104	Nucleotide metabolism
+2254	Cre03.g180450	K01081	240	Pyrimidine metabolism
+2255	Cre03.g180450	K01081	9108	Metabolism of cofactors and vitamins
+2259	Cre03.g180600	K01081	9104	Nucleotide metabolism
+2260	Cre03.g180600	K01081	240	Pyrimidine metabolism
+2261	Cre03.g180600	K01081	9108	Metabolism of cofactors and vitamins
+2271	Cre03.g181150	K10418	9155	Excretory system
+2272	Cre03.g181150	K10418	9183	Protein families: signaling and cellular processes
+2312	Cre03.g183700	K00706	9101	Carbohydrate metabolism
+2313	Cre03.g183700	K00706	9132	Signal transduction
+2314	Cre03.g183700	K00706	9181	Protein families: metabolism
+2318	Cre03.g184400	K03574	9182	Protein families: genetic information processing
+2321	Cre03.g184651	K10871	9124	Replication and repair
+2322	Cre03.g184651	K10871	9182	Protein families: genetic information processing
+2327	Cre03.g185000	K11000	9181	Protein families: metabolism
+2352	Cre03.g187200	K10418	9155	Excretory system
+2353	Cre03.g187200	K10418	9183	Protein families: signaling and cellular processes
+2373	Cre03.g189050	K15538	9191	Unclassified: metabolism
+2427	Cre03.g190950	K07374	9141	Transport and catabolism
+2428	Cre03.g190950	K07374	9143	Cell growth and death
+2429	Cre03.g190950	K07374	9144	Cellular community - eukaryotes
+2430	Cre03.g190950	K07374	4540	Gap junction
+2431	Cre03.g190950	K07374	9171	Infectious diseases: Bacterial
+2432	Cre03.g190950	K07374	9182	Protein families: genetic information processing
+2433	Cre03.g190950	K07374	3036	Chromosome and associated proteins
+2434	Cre03.g190950	K07374	9183	Protein families: signaling and cellular processes
+2435	Cre03.g190950	K07374	4147	Exosome
+2464	Cre03.g192050	K07243	9183	Protein families: signaling and cellular processes
+2523	Cre03.g196350	K09858	9194	Poorly characterized
+2549	Cre03.g198200	K00706	9101	Carbohydrate metabolism
+2550	Cre03.g198200	K00706	9132	Signal transduction
+2551	Cre03.g198200	K00706	9181	Protein families: metabolism
+2571	Cre03.g199400	K02604	9143	Cell growth and death
+2572	Cre03.g199400	K02604	4111	Cell cycle - yeast
+2573	Cre03.g199400	K02604	4113	Meiosis - yeast
+2574	Cre03.g199400	K02604	9182	Protein families: genetic information processing
+2575	Cre03.g199400	K02604	3036	Chromosome and associated proteins
+2576	Cre03.g199423	K00254	9104	Nucleotide metabolism
+2624	Cre03.g200200	K08824	9181	Protein families: metabolism
+2635	Cre03.g202113	K01923	9104	Nucleotide metabolism
+2664	Cre03.g205050	K14457	9103	Lipid metabolism
+2665	Cre03.g205050	K14457	9154	Digestive system
+2723	Cre03.g210177	K02183	9132	Signal transduction
+2724	Cre03.g210177	K02183	4015	Rap1 signaling pathway
+2725	Cre03.g210177	K02183	4016	MAPK signaling pathway - plant
+2726	Cre03.g210177	K02183	4371	Apelin signaling pathway
+2727	Cre03.g210177	K02183	4020	Calcium signaling pathway
+2728	Cre03.g210177	K02183	4070	Phosphatidylinositol signaling system
+2729	Cre03.g210177	K02183	4024	cAMP signaling pathway
+2730	Cre03.g210177	K02183	4022	cGMP-PKG signaling pathway
+2731	Cre03.g210177	K02183	9143	Cell growth and death
+2732	Cre03.g210177	K02183	4218	Cellular senescence
+2733	Cre03.g210177	K02183	9151	Immune system
+2734	Cre03.g210177	K02183	9152	Endocrine system
+2735	Cre03.g210177	K02183	4922	Glucagon signaling pathway
+2736	Cre03.g210177	K02183	4912	GnRH signaling pathway
+2737	Cre03.g210177	K02183	4915	Estrogen signaling pathway
+2738	Cre03.g210177	K02183	4921	Oxytocin signaling pathway
+2739	Cre03.g210177	K02183	4916	Melanogenesis
+2740	Cre03.g210177	K02183	4924	Renin secretion
+2741	Cre03.g210177	K02183	4925	Aldosterone synthesis and secretion
+2742	Cre03.g210177	K02183	9153	Circulatory system
+2743	Cre03.g210177	K02183	4270	Vascular smooth muscle contraction
+2744	Cre03.g210177	K02183	9154	Digestive system
+2745	Cre03.g210177	K02183	4971	Gastric acid secretion
+2746	Cre03.g210177	K02183	9156	Nervous system
+2747	Cre03.g210177	K02183	4720	Long-term potentiation
+2748	Cre03.g210177	K02183	4722	Neurotrophin signaling pathway
+2749	Cre03.g210177	K02183	9157	Sensory system
+2750	Cre03.g210177	K02183	4745	Phototransduction - fly
+2751	Cre03.g210177	K02183	4740	Olfactory transduction
+2752	Cre03.g210177	K02183	4750	Inflammatory mediator regulation of TRP channels
+2753	Cre03.g210177	K02183	9159	Environmental adaptation
+2754	Cre03.g210177	K02183	4626	Plant-pathogen interaction
+2755	Cre03.g210177	K02183	9161	Cancers: Overview
+2756	Cre03.g210177	K02183	9162	Cancers: Specific types
+2757	Cre03.g210177	K02183	9164	Neurodegenerative diseases
+2758	Cre03.g210177	K02183	9165	Substance dependence
+2759	Cre03.g210177	K02183	5034	Alcoholism
+2760	Cre03.g210177	K02183	9166	Cardiovascular diseases
+2761	Cre03.g210177	K02183	9171	Infectious diseases: Bacterial
+2762	Cre03.g210177	K02183	5152	Tuberculosis
+2763	Cre03.g210177	K02183	9172	Infectious diseases: Viral
+2764	Cre03.g210177	K02183	5163	Human cytomegalovirus infection
+2765	Cre03.g210177	K02183	5167	Kaposi sarcoma-associated herpesvirus infection
+2766	Cre03.g210177	K02183	9181	Protein families: metabolism
+2767	Cre03.g210177	K02183	9182	Protein families: genetic information processing
+2768	Cre03.g210177	K02183	3036	Chromosome and associated proteins
+2769	Cre03.g210177	K02183	9183	Protein families: signaling and cellular processes
+2812	Cre04.g212550	K06047	9183	Protein families: signaling and cellular processes
+2831	Cre04.g214500	K00031	9101	Carbohydrate metabolism
+2832	Cre04.g214500	K00031	9102	Energy metabolism
+2833	Cre04.g214500	K00031	9106	Metabolism of other amino acids
+2834	Cre04.g214500	K00031	9141	Transport and catabolism
+2835	Cre04.g214501	K00962	9123	"Folding	 sorting and degradation"
+2836	Cre04.g214501	K00962	9182	Protein families: genetic information processing
+2837	Cre04.g214501	K00962	3016	Transfer RNA biogenesis
+2863	Cre04.g216850	K07374	9141	Transport and catabolism
+2864	Cre04.g216850	K07374	9143	Cell growth and death
+2865	Cre04.g216850	K07374	9144	Cellular community - eukaryotes
+2866	Cre04.g216850	K07374	4540	Gap junction
+2867	Cre04.g216850	K07374	9171	Infectious diseases: Bacterial
+2868	Cre04.g216850	K07374	9182	Protein families: genetic information processing
+2869	Cre04.g216850	K07374	3036	Chromosome and associated proteins
+2870	Cre04.g216850	K07374	9183	Protein families: signaling and cellular processes
+2871	Cre04.g216850	K07374	4147	Exosome
+2889	Cre04.g217945	K00507	9103	Lipid metabolism
+2890	Cre04.g217945	K00507	9132	Signal transduction
+2891	Cre04.g217945	K00507	9152	Endocrine system
+2892	Cre04.g217945	K00507	9149	Aging
+2893	Cre04.g217945	K00507	9181	Protein families: metabolism
+2912	Cre04.g219700	K19398	9182	Protein families: genetic information processing
+2948	Cre04.g223200	K08824	9181	Protein families: metabolism
+2959	Cre04.g224150	K00864	9103	Lipid metabolism
+2960	Cre04.g224150	K00864	9152	Endocrine system
+2961	Cre04.g224150	K00864	9159	Environmental adaptation
+2962	Cre04.g224150	K00864	9183	Protein families: signaling and cellular processes
+2963	Cre04.g224700	K14638	9183	Protein families: signaling and cellular processes
+2980	Cre04.g228208	K08850	9181	Protein families: metabolism
+2981	Cre04.g228208	K08850	9182	Protein families: genetic information processing
+2982	Cre04.g228300	K08850	9181	Protein families: metabolism
+2983	Cre04.g228300	K08850	9182	Protein families: genetic information processing
+3009	Cre05.g232002	K00232	9103	Lipid metabolism
+3010	Cre05.g232002	K00232	592	alpha-Linolenic acid metabolism
+3011	Cre05.g232002	K00232	1040	Biosynthesis of unsaturated fatty acids
+3012	Cre05.g232002	K00232	9132	Signal transduction
+3013	Cre05.g232002	K00232	9141	Transport and catabolism
+3014	Cre05.g232002	K00232	9152	Endocrine system
+3023	Cre05.g232550	K15634	9101	Carbohydrate metabolism
+3024	Cre05.g232550	K15634	9102	Energy metabolism
+3025	Cre05.g232550	K15634	9105	Amino acid metabolism
+3038	Cre05.g233304	K01183	9101	Carbohydrate metabolism
+3070	Cre05.g234655	K17550	9181	Protein families: metabolism
+3075	Cre05.g234700	K00873	9101	Carbohydrate metabolism
+3076	Cre05.g234700	K00873	620	Pyruvate metabolism
+3077	Cre05.g234700	K00873	9104	Nucleotide metabolism
+3078	Cre05.g234700	K00873	9152	Endocrine system
+3079	Cre05.g234700	K00873	9161	Cancers: Overview
+3080	Cre05.g234700	K00873	5203	Viral carcinogenesis
+3081	Cre05.g234700	K00873	9167	Endocrine and metabolic diseases
+3082	Cre05.g234700	K00873	9172	Infectious diseases: Viral
+3083	Cre05.g234700	K00873	9182	Protein families: genetic information processing
+3084	Cre05.g234700	K00873	9183	Protein families: signaling and cellular processes
+3092	Cre05.g235750	K08737	9124	Replication and repair
+3093	Cre05.g235750	K08737	9161	Cancers: Overview
+3094	Cre05.g235750	K08737	9162	Cancers: Specific types
+3095	Cre05.g235750	K08737	9176	Drug resistance: Antineoplastic
+3096	Cre05.g235750	K08737	9182	Protein families: genetic information processing
+3101	Cre05.g237100	K16535	9182	Protein families: genetic information processing
+3151	Cre05.g240850	K03147	9108	Metabolism of cofactors and vitamins
+3156	Cre05.g241450	K03110	9123	"Folding	 sorting and degradation"
+3157	Cre05.g241450	K03110	9131	Membrane transport
+3158	Cre05.g241450	K03110	9145	Cellular community - prokaryotes
+3159	Cre05.g241450	K03110	9183	Protein families: signaling and cellular processes
+3183	Cre05.g242000	K03404	9108	Metabolism of cofactors and vitamins
+3191	Cre05.g243050	K03671	9151	Immune system
+3192	Cre05.g243050	K03671	9166	Cardiovascular diseases
+3193	Cre05.g243050	K03671	9182	Protein families: genetic information processing
+3194	Cre05.g243451	K06287	9193	Unclassified: signaling and cellular processes
+3198	Cre05.g244250	K10408	9164	Neurodegenerative diseases
+3199	Cre05.g244250	K10408	9183	Protein families: signaling and cellular processes
+3233	Cre05.g248300	K12347	9141	Transport and catabolism
+3234	Cre05.g248300	K12347	9183	Protein families: signaling and cellular processes
+3257	Cre06.g249950	K00889	9101	Carbohydrate metabolism
+3258	Cre06.g249950	K00889	9132	Signal transduction
+3259	Cre06.g249950	K00889	4070	Phosphatidylinositol signaling system
+3260	Cre06.g249950	K00889	4072	Phospholipase D signaling pathway
+3261	Cre06.g249950	K00889	9141	Transport and catabolism
+3262	Cre06.g249950	K00889	4139	Mitophagy - yeast
+3263	Cre06.g249950	K00889	9142	Cell motility
+3264	Cre06.g249950	K00889	9151	Immune system
+3265	Cre06.g249950	K00889	9161	Cancers: Overview
+3266	Cre06.g249950	K00889	9182	Protein families: genetic information processing
+3277	Cre06.g250300	K10414	9141	Transport and catabolism
+3278	Cre06.g250300	K10414	9155	Excretory system
+3279	Cre06.g250300	K10414	9171	Infectious diseases: Bacterial
+3280	Cre06.g250300	K10414	9182	Protein families: genetic information processing
+3281	Cre06.g250300	K10414	9183	Protein families: signaling and cellular processes
+3295	Cre06.g251050	K07198	9132	Signal transduction
+3296	Cre06.g251050	K07198	4068	FoxO signaling pathway
+3297	Cre06.g251050	K07198	4151	PI3K-Akt signaling pathway
+3298	Cre06.g251050	K07198	4152	AMPK signaling pathway
+3299	Cre06.g251050	K07198	4150	mTOR signaling pathway
+3300	Cre06.g251050	K07198	9141	Transport and catabolism
+3301	Cre06.g251050	K07198	9144	Cellular community - eukaryotes
+3302	Cre06.g251050	K07198	9152	Endocrine system
+3303	Cre06.g251050	K07198	4922	Glucagon signaling pathway
+3304	Cre06.g251050	K07198	4920	Adipocytokine signaling pathway
+3305	Cre06.g251050	K07198	4921	Oxytocin signaling pathway
+3306	Cre06.g251050	K07198	9149	Aging
+3307	Cre06.g251050	K07198	4213	Longevity regulating pathway - multiple species
+3308	Cre06.g251050	K07198	9159	Environmental adaptation
+3309	Cre06.g251050	K07198	4714	Thermogenesis
+3310	Cre06.g251050	K07198	9166	Cardiovascular diseases
+3311	Cre06.g251050	K07198	5410	Hypertrophic cardiomyopathy (HCM)\n
+3312	Cre06.g251050	K07198	9167	Endocrine and metabolic diseases
+3313	Cre06.g251050	K07198	4931	Insulin resistance
+3314	Cre06.g251050	K07198	9181	Protein families: metabolism
+3315	Cre06.g251050	K07198	9182	Protein families: genetic information processing
+3316	Cre06.g251050	K07198	3029	Mitochondrial biogenesis
+3326	Cre06.g251500	K18787	9191	Unclassified: metabolism
+3338	Cre06.g251900	K03217	9123	"Folding	 sorting and degradation"
+3339	Cre06.g251900	K03217	9131	Membrane transport
+3340	Cre06.g251900	K03217	9145	Cellular community - prokaryotes
+3341	Cre06.g251900	K03217	9182	Protein families: genetic information processing
+3342	Cre06.g251900	K03217	9183	Protein families: signaling and cellular processes
+3345	Cre06.g252000	K19400	9182	Protein families: genetic information processing
+3396	Cre06.g257250	K16747	9182	Protein families: genetic information processing
+3423	Cre06.g257950	K14455	9102	Energy metabolism
+3424	Cre06.g257950	K14455	9105	Amino acid metabolism
+3425	Cre06.g257950	K14455	270	Cysteine and methionine metabolism
+3426	Cre06.g257950	K14455	220	Arginine biosynthesis
+3427	Cre06.g257950	K14455	330	Arginine and proline metabolism
+3428	Cre06.g257950	K14455	350	Tyrosine metabolism
+3429	Cre06.g257950	K14455	360	Phenylalanine metabolism
+3430	Cre06.g257950	K14455	400	"Phenylalanine	 tyrosine and tryptophan biosynthesis"
+3431	Cre06.g257950	K14455	9110	Biosynthesis of other secondary metabolites
+3432	Cre06.g257950	K14455	960	"Tropane	 piperidine and pyridine alkaloid biosynthesis"
+3433	Cre06.g257950	K14455	9154	Digestive system
+3434	Cre06.g257950	K14455	9181	Protein families: metabolism
+3438	Cre06.g258700	K01958	9101	Carbohydrate metabolism
+3439	Cre06.g258700	K01958	620	Pyruvate metabolism
+3440	Cre06.g258700	K01958	9102	Energy metabolism
+3478	Cre06.g261150	K01012	9108	Metabolism of cofactors and vitamins
+3486	Cre06.g261700	K14815	9182	Protein families: genetic information processing
+3498	Cre06.g262400	K14676	9103	Lipid metabolism
+3638	Cre06.g265950	K10408	9164	Neurodegenerative diseases
+3639	Cre06.g265950	K10408	9183	Protein families: signaling and cellular processes
+3663	Cre06.g267250	K04459	9132	Signal transduction
+3664	Cre06.g267250	K04459	9181	Protein families: metabolism
+3668	Cre06.g267550	K16748	9182	Protein families: genetic information processing
+3744	Cre06.g271050	K01240	9104	Nucleotide metabolism
+3745	Cre06.g271050	K01240	9108	Metabolism of cofactors and vitamins
+3783	Cre06.g271400	K19269	9101	Carbohydrate metabolism
+3784	Cre06.g271400	K19269	9181	Protein families: metabolism
+3785	Cre06.g271800	K15382	9183	Protein families: signaling and cellular processes
+3869	Cre06.g274700	K13719	9123	"Folding	 sorting and degradation"
+3870	Cre06.g274700	K13719	9181	Protein families: metabolism
+3891	Cre06.g275000	K15382	9183	Protein families: signaling and cellular processes
+3962	Cre06.g277200	K00833	9108	Metabolism of cofactors and vitamins
+3963	Cre06.g277200	K00833	9181	Protein families: metabolism
+3994	Cre06.g278142	K14441	9182	Protein families: genetic information processing
+4030	Cre06.g278213	K08910	9102	Energy metabolism
+4031	Cre06.g278213	K08910	9181	Protein families: metabolism
+4040	Cre06.g278231	K08850	9181	Protein families: metabolism
+4041	Cre06.g278231	K08850	9182	Protein families: genetic information processing
+4055	Cre06.g278451	K00898	9181	Protein families: metabolism
+4056	Cre06.g278500	K15445	9182	Protein families: genetic information processing
+4073	Cre06.g279900	K16755	9182	Protein families: genetic information processing
+4090	Cre06.g280950	K00873	9101	Carbohydrate metabolism
+4091	Cre06.g280950	K00873	620	Pyruvate metabolism
+4092	Cre06.g280950	K00873	9104	Nucleotide metabolism
+4093	Cre06.g280950	K00873	9152	Endocrine system
+4094	Cre06.g280950	K00873	9161	Cancers: Overview
+4095	Cre06.g280950	K00873	5203	Viral carcinogenesis
+4096	Cre06.g280950	K00873	9167	Endocrine and metabolic diseases
+4097	Cre06.g280950	K00873	9172	Infectious diseases: Viral
+4098	Cre06.g280950	K00873	9182	Protein families: genetic information processing
+4099	Cre06.g280950	K00873	9183	Protein families: signaling and cellular processes
+4118	Cre06.g283550	K16466	9182	Protein families: genetic information processing
+4119	Cre06.g283550	K16466	3036	Chromosome and associated proteins
+4122	Cre06.g283950	K08912	9102	Energy metabolism
+4123	Cre06.g283950	K08912	9181	Protein families: metabolism
+4131	Cre06.g284250	K08912	9102	Energy metabolism
+4132	Cre06.g284250	K08912	9181	Protein families: metabolism
+4135	Cre06.g284450	K15731	9181	Protein families: metabolism
+4136	Cre06.g284450	K15731	9182	Protein families: genetic information processing
+4153	Cre06.g285250	K08912	9102	Energy metabolism
+4154	Cre06.g285250	K08912	9181	Protein families: metabolism
+4159	Cre06.g286250	K15111	9183	Protein families: signaling and cellular processes
+4297	Cre06.g294750	K04040	9108	Metabolism of cofactors and vitamins
+4298	Cre06.g294750	K04040	9181	Protein families: metabolism
+4307	Cre06.g295400	K15109	9159	Environmental adaptation
+4308	Cre06.g295400	K15109	9183	Protein families: signaling and cellular processes
+4309	Cre06.g295450	K15893	9101	Carbohydrate metabolism
+4310	Cre06.g295450	K15893	9105	Amino acid metabolism
+4325	Cre06.g296250	K04567	9122	Translation
+4326	Cre06.g296250	K04567	9181	Protein families: metabolism
+4327	Cre06.g296250	K04567	9182	Protein families: genetic information processing
+4345	Cre06.g297850	K10408	9164	Neurodegenerative diseases
+4346	Cre06.g297850	K10408	9183	Protein families: signaling and cellular processes
+4351	Cre06.g298550	K00485	9111	Xenobiotics biodegradation and metabolism
+4361	Cre06.g299600	K14709	9183	Protein families: signaling and cellular processes
+4377	Cre06.g300250	K16600	9183	Protein families: signaling and cellular processes
+4386	Cre06.g302050	K00706	9101	Carbohydrate metabolism
+4387	Cre06.g302050	K00706	9132	Signal transduction
+4388	Cre06.g302050	K00706	9181	Protein families: metabolism
+4393	Cre06.g303400	K18597	9183	Protein families: signaling and cellular processes
+4400	Cre06.g304050	K15710	9182	Protein families: genetic information processing
+4432	Cre06.g306800	K08851	9181	Protein families: metabolism
+4433	Cre06.g306800	K08851	9182	Protein families: genetic information processing
+4485	Cre06.g308500	K01956	9104	Nucleotide metabolism
+4486	Cre06.g308500	K01956	9105	Amino acid metabolism
+4542	Cre07.g312750	K07573	9123	"Folding	 sorting and degradation"
+4543	Cre07.g312750	K07573	9182	Protein families: genetic information processing
+4554	Cre07.g313700	K01885	9108	Metabolism of cofactors and vitamins
+4555	Cre07.g313700	K01885	9122	Translation
+4556	Cre07.g313700	K01885	9181	Protein families: metabolism
+4557	Cre07.g313700	K01885	9182	Protein families: genetic information processing
+4558	Cre07.g313700	K01885	9183	Protein families: signaling and cellular processes
+4561	Cre07.g314351	K14819	9181	Protein families: metabolism
+4562	Cre07.g314351	K14819	9182	Protein families: genetic information processing
+4583	Cre07.g316992	K14802	9182	Protein families: genetic information processing
+4584	Cre07.g317250	K01183	9101	Carbohydrate metabolism
+4593	Cre07.g318702	K11806	9182	Protein families: genetic information processing
+4594	Cre07.g318702	K11806	4121	Ubiquitin system
+4613	Cre07.g320700	K12319	9104	Nucleotide metabolism
+4614	Cre07.g320700	K12319	9132	Signal transduction
+4615	Cre07.g320700	K12319	9144	Cellular community - eukaryotes
+4616	Cre07.g320700	K12319	9151	Immune system
+4617	Cre07.g320700	K12319	9152	Endocrine system
+4618	Cre07.g320700	K12319	4924	Renin secretion
+4619	Cre07.g320700	K12319	9153	Circulatory system
+4620	Cre07.g320700	K12319	9154	Digestive system
+4621	Cre07.g320700	K12319	9156	Nervous system
+4622	Cre07.g320700	K12319	9159	Environmental adaptation
+4623	Cre07.g320750	K12319	9104	Nucleotide metabolism
+4624	Cre07.g320750	K12319	9132	Signal transduction
+4625	Cre07.g320750	K12319	9144	Cellular community - eukaryotes
+4626	Cre07.g320750	K12319	9151	Immune system
+4627	Cre07.g320750	K12319	9152	Endocrine system
+4628	Cre07.g320750	K12319	4924	Renin secretion
+4629	Cre07.g320750	K12319	9153	Circulatory system
+4630	Cre07.g320750	K12319	9154	Digestive system
+4631	Cre07.g320750	K12319	9156	Nervous system
+4632	Cre07.g320750	K12319	9159	Environmental adaptation
+4633	Cre07.g321150	K12319	9104	Nucleotide metabolism
+4634	Cre07.g321150	K12319	9132	Signal transduction
+4635	Cre07.g321150	K12319	9144	Cellular community - eukaryotes
+4636	Cre07.g321150	K12319	9151	Immune system
+4637	Cre07.g321150	K12319	9152	Endocrine system
+4638	Cre07.g321150	K12319	4924	Renin secretion
+4639	Cre07.g321150	K12319	9153	Circulatory system
+4640	Cre07.g321150	K12319	9154	Digestive system
+4641	Cre07.g321150	K12319	9156	Nervous system
+4642	Cre07.g321150	K12319	9159	Environmental adaptation
+4659	Cre07.g323050	K06170	9132	Signal transduction
+4660	Cre07.g323050	K06170	9164	Neurodegenerative diseases
+4706	Cre07.g325724	K18078	9181	Protein families: metabolism
+4708	Cre07.g325734	K00940	9104	Nucleotide metabolism
+4709	Cre07.g325734	K00940	240	Pyrimidine metabolism
+4710	Cre07.g325734	K00940	9111	Xenobiotics biodegradation and metabolism
+4711	Cre07.g325734	K00940	9132	Signal transduction
+4712	Cre07.g325734	K00940	9182	Protein families: genetic information processing
+4713	Cre07.g325740	K14640	9183	Protein families: signaling and cellular processes
+4725	Cre07.g326950	K15437	9182	Protein families: genetic information processing
+4785	Cre07.g329150	K12818	9121	Transcription
+4786	Cre07.g329150	K12818	9182	Protein families: genetic information processing
+4800	Cre07.g330400	K04886	9183	Protein families: signaling and cellular processes
+4848	Cre07.g334800	K02639	9102	Energy metabolism
+4849	Cre07.g334800	K02639	9181	Protein families: metabolism
+4852	Cre07.g335300	K09458	9103	Lipid metabolism
+4853	Cre07.g335300	K09458	9108	Metabolism of cofactors and vitamins
+4854	Cre07.g335300	K09458	9181	Protein families: metabolism
+4855	Cre07.g335750	K16474	9182	Protein families: genetic information processing
+4856	Cre07.g335950	K10523	9132	Signal transduction
+4857	Cre07.g335950	K10523	4341	Hedgehog signaling pathway - fly
+4858	Cre07.g335950	K10523	9182	Protein families: genetic information processing
+4914	Cre07.g339100	K08857	9181	Protein families: metabolism
+4915	Cre07.g339100	K08857	9182	Protein families: genetic information processing
+4916	Cre07.g339100	K08857	3400	DNA repair and recombination proteins
+4949	Cre07.g341800	K02326	9124	Replication and repair
+4950	Cre07.g341800	K02326	3410	Base excision repair
+4951	Cre07.g341800	K02326	3420	Nucleotide excision repair
+4952	Cre07.g341800	K02326	9182	Protein families: genetic information processing
+4953	Cre07.g341800	K02326	3036	Chromosome and associated proteins
+4954	Cre07.g341800	K02326	3400	DNA repair and recombination proteins
+4977	Cre07.g344100	K11438	9182	Protein families: genetic information processing
+5013	Cre07.g348750	K07052	9194	Poorly characterized
+5035	Cre07.g351750	K14823	9182	Protein families: genetic information processing
+5038	Cre07.g352251	K14780	9182	Protein families: genetic information processing
+5039	Cre07.g352350	K03798	9181	Protein families: metabolism
+5040	Cre07.g352350	K03798	9182	Protein families: genetic information processing
+5046	Cre07.g353300	K13354	9141	Transport and catabolism
+5047	Cre07.g353300	K13354	9183	Protein families: signaling and cellular processes
+5052	Cre07.g353450	K01895	9101	Carbohydrate metabolism
+5053	Cre07.g353450	K01895	620	Pyruvate metabolism
+5054	Cre07.g353450	K01895	630	Glyoxylate and dicarboxylate metabolism
+5055	Cre07.g353450	K01895	640	Propanoate metabolism
+5056	Cre07.g353450	K01895	9102	Energy metabolism
+5057	Cre07.g353450	K01895	680	Methane metabolism
+5058	Cre07.g353450	K01895	9181	Protein families: metabolism
+5065	Cre07.g354200	K00134	9101	Carbohydrate metabolism
+5066	Cre07.g354200	K00134	9102	Energy metabolism
+5067	Cre07.g354200	K00134	9132	Signal transduction
+5068	Cre07.g354200	K00134	9164	Neurodegenerative diseases
+5069	Cre07.g354200	K00134	9182	Protein families: genetic information processing
+5070	Cre07.g354200	K00134	9183	Protein families: signaling and cellular processes
+5087	Cre07.g355650	K03320	9183	Protein families: signaling and cellular processes
+5127	Cre08.g358580	K01955	9104	Nucleotide metabolism
+5128	Cre08.g358580	K01955	9105	Amino acid metabolism
+5131	Cre08.g359350	K01961	9101	Carbohydrate metabolism
+5132	Cre08.g359350	K01961	640	Propanoate metabolism
+5133	Cre08.g359350	K01961	9102	Energy metabolism
+5134	Cre08.g359350	K01961	9103	Lipid metabolism
+5152	Cre08.g363500	K10703	9103	Lipid metabolism
+5153	Cre08.g363500	K10703	1040	Biosynthesis of unsaturated fatty acids
+5154	Cre08.g363500	K10703	9181	Protein families: metabolism
+5155	Cre08.g363700	K18647	9182	Protein families: genetic information processing
+5156	Cre08.g363700	K18647	9183	Protein families: signaling and cellular processes
+5205	Cre08.g367600	K01738	9102	Energy metabolism
+5206	Cre08.g367600	K01738	9105	Amino acid metabolism
+5221	Cre08.g369850	K05673	9131	Membrane transport
+5222	Cre08.g369850	K05673	9132	Signal transduction
+5223	Cre08.g369850	K05673	9154	Digestive system
+5224	Cre08.g369850	K05673	9176	Drug resistance: Antineoplastic
+5225	Cre08.g369850	K05673	9183	Protein families: signaling and cellular processes
+5240	Cre08.g370550	K18204	9191	Unclassified: metabolism
+5244	Cre08.g370650	K01057	9101	Carbohydrate metabolism
+5299	Cre08.g373100	K09837	9109	Metabolism of terpenoids and polyketides
+5300	Cre08.g373100	K09837	9181	Protein families: metabolism
+5345	Cre08.g377350	K00942	9104	Nucleotide metabolism
+5347	Cre08.g378100	K10745	9124	Replication and repair
+5348	Cre08.g378100	K10745	9182	Protein families: genetic information processing
+5373	Cre08.g380400	K02537	9143	Cell growth and death
+5374	Cre08.g380400	K02537	4111	Cell cycle - yeast
+5375	Cre08.g380400	K02537	4113	Meiosis - yeast
+5376	Cre08.g380400	K02537	4114	Oocyte meiosis
+5377	Cre08.g380400	K02537	9152	Endocrine system
+5378	Cre08.g380400	K02537	9172	Infectious diseases: Viral
+5379	Cre08.g380400	K02537	9182	Protein families: genetic information processing
+5399	Cre08.g383400	K13912	9154	Digestive system
+5634	Cre09.g387726	K14454	9102	Energy metabolism
+5635	Cre09.g387726	K14454	9105	Amino acid metabolism
+5636	Cre09.g387726	K14454	270	Cysteine and methionine metabolism
+5637	Cre09.g387726	K14454	220	Arginine biosynthesis
+5638	Cre09.g387726	K14454	330	Arginine and proline metabolism
+5639	Cre09.g387726	K14454	350	Tyrosine metabolism
+5640	Cre09.g387726	K14454	360	Phenylalanine metabolism
+5641	Cre09.g387726	K14454	400	"Phenylalanine	 tyrosine and tryptophan biosynthesis"
+5642	Cre09.g387726	K14454	9110	Biosynthesis of other secondary metabolites
+5643	Cre09.g387726	K14454	960	"Tropane	 piperidine and pyridine alkaloid biosynthesis"
+5644	Cre09.g387726	K14454	9181	Protein families: metabolism
+5645	Cre09.g387726	K14454	9182	Protein families: genetic information processing
+5646	Cre09.g387726	K14454	9183	Protein families: signaling and cellular processes
+5651	Cre09.g387875	K01507	9102	Energy metabolism
+5666	Cre09.g388615	K06965	9122	Translation
+5757	Cre09.g392060	K07238	9183	Protein families: signaling and cellular processes
+5758	Cre09.g392282	K10408	9164	Neurodegenerative diseases
+5759	Cre09.g392282	K10408	9183	Protein families: signaling and cellular processes
+5787	Cre09.g393728	K05302	9182	Protein families: genetic information processing
+5819	Cre09.g396000	K02575	9102	Energy metabolism
+5820	Cre09.g396000	K02575	9183	Protein families: signaling and cellular processes
+5827	Cre09.g396250	K18678	9191	Unclassified: metabolism
+5877	Cre09.g398104	K19306	9182	Protein families: genetic information processing
+5878	Cre09.g398289	K00655	9103	Lipid metabolism
+5879	Cre09.g398289	K00655	564	Glycerophospholipid metabolism
+5880	Cre09.g398289	K00655	9181	Protein families: metabolism
+5886	Cre09.g398882	K10417	9155	Excretory system
+5887	Cre09.g398882	K10417	9182	Protein families: genetic information processing
+5888	Cre09.g398882	K10417	9183	Protein families: signaling and cellular processes
+5910	Cre09.g400330	K08850	9181	Protein families: metabolism
+5911	Cre09.g400330	K08850	9182	Protein families: genetic information processing
+5927	Cre09.g400550	K13427	9105	Amino acid metabolism
+5928	Cre09.g400550	K13427	330	Arginine and proline metabolism
+5929	Cre09.g400550	K13427	9159	Environmental adaptation
+5930	Cre09.g400550	K13427	9182	Protein families: genetic information processing
+5931	Cre09.g400550	K13427	3029	Mitochondrial biogenesis
+6030	Cre09.g403108	K16601	9183	Protein families: signaling and cellular processes
+6044	Cre09.g403800	K10408	9164	Neurodegenerative diseases
+6045	Cre09.g403800	K10408	9183	Protein families: signaling and cellular processes
+6050	Cre09.g404500	K16489	9182	Protein families: genetic information processing
+6060	Cre09.g405150	K06173	9182	Protein families: genetic information processing
+6077	Cre09.g406200	K01881	9122	Translation
+6078	Cre09.g406200	K01881	9181	Protein families: metabolism
+6079	Cre09.g406200	K01881	9182	Protein families: genetic information processing
+6083	Cre09.g406550	K14530	9122	Translation
+6084	Cre09.g406550	K14530	3008	Ribosome biogenesis in eukaryotes
+6085	Cre09.g406550	K14530	9182	Protein families: genetic information processing
+6086	Cre09.g406550	K14530	3016	Transfer RNA biogenesis
+6087	Cre09.g406550	K14530	3029	Mitochondrial biogenesis
+6088	Cre09.g406750	K00699	9101	Carbohydrate metabolism
+6089	Cre09.g406750	K00699	53	Ascorbate and aldarate metabolism
+6090	Cre09.g406750	K00699	9103	Lipid metabolism
+6091	Cre09.g406750	K00699	9108	Metabolism of cofactors and vitamins
+6092	Cre09.g406750	K00699	860	Porphyrin and chlorophyll metabolism
+6093	Cre09.g406750	K00699	9111	Xenobiotics biodegradation and metabolism
+6094	Cre09.g406750	K00699	982	Drug metabolism - cytochrome P450
+6095	Cre09.g406750	K00699	983	Drug metabolism - other enzymes
+6096	Cre09.g406750	K00699	9161	Cancers: Overview
+6097	Cre09.g406750	K00699	9181	Protein families: metabolism
+6136	Cre09.g410750	K00366	9102	Energy metabolism
+6144	Cre09.g411500	K01239	9104	Nucleotide metabolism
+6145	Cre09.g411500	K01239	9108	Metabolism of cofactors and vitamins
+6157	Cre09.g413200	K08824	9181	Protein families: metabolism
+6166	Cre09.g414650	K08824	9181	Protein families: metabolism
+6175	Cre09.g416050	K01940	9105	Amino acid metabolism
+6176	Cre09.g416050	K01940	220	Arginine biosynthesis
+6177	Cre09.g416050	K01940	9166	Cardiovascular diseases
+6178	Cre09.g416050	K01940	9183	Protein families: signaling and cellular processes
+6189	Cre09.g417150	K03781	9101	Carbohydrate metabolism
+6190	Cre09.g417150	K03781	9105	Amino acid metabolism
+6191	Cre09.g417150	K03781	9132	Signal transduction
+6192	Cre09.g417150	K03781	4011	MAPK signaling pathway - yeast
+6193	Cre09.g417150	K03781	4068	FoxO signaling pathway
+6194	Cre09.g417150	K03781	9141	Transport and catabolism
+6195	Cre09.g417150	K03781	9149	Aging
+6196	Cre09.g417150	K03781	4212	Longevity regulating pathway - worm
+6197	Cre09.g417150	K03781	4213	Longevity regulating pathway - multiple species
+6198	Cre09.g417150	K03781	9164	Neurodegenerative diseases
+6240	Cre10.g422000	K00555	9182	Protein families: genetic information processing
+6252	Cre10.g423250	K00026	9101	Carbohydrate metabolism
+6253	Cre10.g423250	K00026	620	Pyruvate metabolism
+6254	Cre10.g423250	K00026	630	Glyoxylate and dicarboxylate metabolism
+6255	Cre10.g423250	K00026	9102	Energy metabolism
+6256	Cre10.g423250	K00026	9105	Amino acid metabolism
+6284	Cre10.g424500	K00852	9101	Carbohydrate metabolism
+6302	Cre10.g425900	K08910	9102	Energy metabolism
+6303	Cre10.g425900	K08910	9181	Protein families: metabolism
+6339	Cre10.g427750	K10397	9183	Protein families: signaling and cellular processes
+6340	Cre10.g428100	K00555	9182	Protein families: genetic information processing
+6348	Cre10.g428550	K13941	9108	Metabolism of cofactors and vitamins
+6359	Cre10.g428850	K10420	9183	Protein families: signaling and cellular processes
+6376	Cre10.g431150	K16458	9182	Protein families: genetic information processing
+6387	Cre10.g432150	K08824	9181	Protein families: metabolism
+6390	Cre10.g432650	K12584	9123	"Folding	 sorting and degradation"
+6391	Cre10.g432650	K12584	9182	Protein families: genetic information processing
+6396	Cre10.g433100	K03979	9182	Protein families: genetic information processing
+6399	Cre10.g433600	K00297	9102	Energy metabolism
+6400	Cre10.g433600	K00297	9108	Metabolism of cofactors and vitamins
+6401	Cre10.g433600	K00297	9176	Drug resistance: Antineoplastic
+6407	Cre10.g434400	K19090	9183	Protein families: signaling and cellular processes
+6441	Cre10.g437150	K17710	9182	Protein families: genetic information processing
+6442	Cre10.g437150	K17710	3029	Mitochondrial biogenesis
+6465	Cre10.g438700	K14556	9122	Translation
+6466	Cre10.g438700	K14556	9182	Protein families: genetic information processing
+6509	Cre10.g442850	K03168	9182	Protein families: genetic information processing
+6510	Cre10.g442850	K03168	3400	DNA repair and recombination proteins
+6513	Cre10.g443050	K00472	9105	Amino acid metabolism
+6521	Cre10.g444400	K16458	9182	Protein families: genetic information processing
+6522	Cre10.g444450	K16462	9182	Protein families: genetic information processing
+6538	Cre10.g446400	K07767	9183	Protein families: signaling and cellular processes
+6556	Cre10.g447500	K10392	9183	Protein families: signaling and cellular processes
+6571	Cre10.g448950	K18764	9182	Protein families: genetic information processing
+6576	Cre10.g450350	K19369	9182	Protein families: genetic information processing
+6577	Cre10.g450350	K19369	3036	Chromosome and associated proteins
+6585	Cre10.g450879	K14859	9182	Protein families: genetic information processing
+6598	Cre10.g452050	K08908	9102	Energy metabolism
+6599	Cre10.g452050	K08908	9181	Protein families: metabolism
+6600	Cre10.g452100	K02723	9102	Energy metabolism
+6601	Cre10.g452100	K02723	9181	Protein families: metabolism
+6728	Cre10.g461000	K14772	9182	Protein families: genetic information processing
+6765	Cre10.g465550	K03696	9182	Protein families: genetic information processing
+6815	Cre10.g466850	K01802	9191	Unclassified: metabolism
+6816	Cre10.g467000	K04638	9164	Neurodegenerative diseases
+6817	Cre10.g467000	K04638	9182	Protein families: genetic information processing
+6828	Cre11.g467350	K00232	9103	Lipid metabolism
+6829	Cre11.g467350	K00232	592	alpha-Linolenic acid metabolism
+6830	Cre11.g467350	K00232	1040	Biosynthesis of unsaturated fatty acids
+6831	Cre11.g467350	K00232	9132	Signal transduction
+6832	Cre11.g467350	K00232	9141	Transport and catabolism
+6833	Cre11.g467350	K00232	9152	Endocrine system
+6841	Cre11.g467550	K01465	9104	Nucleotide metabolism
+6854	Cre11.g467568	K06276	9132	Signal transduction
+6855	Cre11.g467568	K06276	4068	FoxO signaling pathway
+6856	Cre11.g467568	K06276	4071	Sphingolipid signaling pathway
+6857	Cre11.g467568	K06276	4151	PI3K-Akt signaling pathway
+6858	Cre11.g467568	K06276	4152	AMPK signaling pathway
+6859	Cre11.g467568	K06276	4150	mTOR signaling pathway
+6860	Cre11.g467568	K06276	9141	Transport and catabolism
+6861	Cre11.g467568	K06276	9143	Cell growth and death
+6862	Cre11.g467568	K06276	9144	Cellular community - eukaryotes
+6863	Cre11.g467568	K06276	9151	Immune system
+6864	Cre11.g467568	K06276	4664	Fc epsilon RI signaling pathway
+6865	Cre11.g467568	K06276	9152	Endocrine system
+6866	Cre11.g467568	K06276	3320	PPAR signaling pathway
+6867	Cre11.g467568	K06276	4919	Thyroid hormone signaling pathway
+6868	Cre11.g467568	K06276	9155	Excretory system
+6869	Cre11.g467568	K06276	9156	Nervous system
+6870	Cre11.g467568	K06276	9161	Cancers: Overview
+6871	Cre11.g467568	K06276	5205	Proteoglycans in cancer
+6872	Cre11.g467568	K06276	9162	Cancers: Specific types
+6873	Cre11.g467568	K06276	5213	Endometrial cancer
+6874	Cre11.g467568	K06276	5223	Non-small cell lung cancer
+6875	Cre11.g467568	K06276	9167	Endocrine and metabolic diseases
+6876	Cre11.g467568	K06276	9174	Infectious diseases: Parasitic
+6877	Cre11.g467568	K06276	9176	Drug resistance: Antineoplastic
+6878	Cre11.g467568	K06276	9181	Protein families: metabolism
+6879	Cre11.g467568	K06276	9182	Protein families: genetic information processing
+6918	Cre11.g467700	K01599	9108	Metabolism of cofactors and vitamins
+6930	Cre11.g467706	K11407	9161	Cancers: Overview
+6931	Cre11.g467706	K11407	9165	Substance dependence
+6932	Cre11.g467706	K11407	9181	Protein families: metabolism
+6933	Cre11.g467706	K11407	9182	Protein families: genetic information processing
+6934	Cre11.g467706	K11407	4131	Membrane trafficking
+6935	Cre11.g467706	K11407	3036	Chromosome and associated proteins
+6986	Cre11.g467779	K12373	9101	Carbohydrate metabolism
+6987	Cre11.g467779	K12373	9107	Glycan biosynthesis and metabolism
+6988	Cre11.g467779	K12373	531	Glycosaminoglycan degradation
+6989	Cre11.g467779	K12373	603	Glycosphingolipid biosynthesis - globo and isoglobo series
+6990	Cre11.g467779	K12373	604	Glycosphingolipid biosynthesis - ganglio series
+6991	Cre11.g467779	K12373	511	Other glycan degradation
+6992	Cre11.g467779	K12373	9141	Transport and catabolism
+6993	Cre11.g467779	K12373	9182	Protein families: genetic information processing
+7023	Cre11.g468700	K18010	9108	Metabolism of cofactors and vitamins
+7045	Cre11.g476050	K10408	9164	Neurodegenerative diseases
+7046	Cre11.g476050	K10408	9183	Protein families: signaling and cellular processes
+7078	Cre11.g478184	K01192	9107	Glycan biosynthesis and metabolism
+7079	Cre11.g478184	K01192	9141	Transport and catabolism
+7105	Cre11.g479750	K03106	9123	"Folding	 sorting and degradation"
+7106	Cre11.g479750	K03106	9131	Membrane transport
+7107	Cre11.g479750	K03106	9145	Cellular community - prokaryotes
+7108	Cre11.g479750	K03106	9183	Protein families: signaling and cellular processes
+7114	Cre11.g480750	K08657	9181	Protein families: metabolism
+7129	Cre11.g482001	K13118	9182	Protein families: genetic information processing
+7155	Cre12.g484200	K13789	9109	Metabolism of terpenoids and polyketides
+7156	Cre12.g484200	K13789	9181	Protein families: metabolism
+7157	Cre12.g484250	K10408	9164	Neurodegenerative diseases
+7158	Cre12.g484250	K10408	9183	Protein families: signaling and cellular processes
+7210	Cre12.g487100	K01874	9106	Metabolism of other amino acids
+7211	Cre12.g487100	K01874	9122	Translation
+7212	Cre12.g487100	K01874	9181	Protein families: metabolism
+7213	Cre12.g487100	K01874	9182	Protein families: genetic information processing
+7214	Cre12.g487350	K16801	9182	Protein families: genetic information processing
+7224	Cre12.g488350	K00464	9191	Unclassified: metabolism
+7315	Cre12.g494800	K10410	9164	Neurodegenerative diseases
+7316	Cre12.g494800	K10410	9183	Protein families: signaling and cellular processes
+7323	Cre12.g495300	K01814	9105	Amino acid metabolism
+7324	Cre12.g495350	K19332	9182	Protein families: genetic information processing
+7341	Cre12.g497000	K15426	9181	Protein families: metabolism
+7342	Cre12.g497000	K15426	9182	Protein families: genetic information processing
+7367	Cre12.g498850	K08568	9141	Transport and catabolism
+7368	Cre12.g498850	K08568	9143	Cell growth and death
+7369	Cre12.g498850	K08568	9181	Protein families: metabolism
+7372	Cre12.g499250	K13293	9104	Nucleotide metabolism
+7373	Cre12.g499250	K13293	9132	Signal transduction
+7374	Cre12.g499250	K13293	9152	Endocrine system
+7375	Cre12.g499250	K13293	9165	Substance dependence
+7376	Cre12.g499300	K13293	9104	Nucleotide metabolism
+7377	Cre12.g499300	K13293	9132	Signal transduction
+7378	Cre12.g499300	K13293	9152	Endocrine system
+7379	Cre12.g499300	K13293	9165	Substance dependence
+7392	Cre12.g500150	K00128	9101	Carbohydrate metabolism
+7393	Cre12.g500150	K00128	53	Ascorbate and aldarate metabolism
+7394	Cre12.g500150	K00128	620	Pyruvate metabolism
+7395	Cre12.g500150	K00128	9103	Lipid metabolism
+7396	Cre12.g500150	K00128	561	Glycerolipid metabolism
+7397	Cre12.g500150	K00128	9105	Amino acid metabolism
+7398	Cre12.g500150	K00128	310	Lysine degradation
+7399	Cre12.g500150	K00128	330	Arginine and proline metabolism
+7400	Cre12.g500150	K00128	340	Histidine metabolism
+7401	Cre12.g500150	K00128	380	Tryptophan metabolism
+7402	Cre12.g500150	K00128	9106	Metabolism of other amino acids
+7403	Cre12.g500150	K00128	9109	Metabolism of terpenoids and polyketides
+7404	Cre12.g500150	K00128	903	Limonene and pinene degradation
+7405	Cre12.g500150	K00128	9111	Xenobiotics biodegradation and metabolism
+7534	Cre12.g505900	K17496	9182	Protein families: genetic information processing
+7535	Cre12.g505900	K17496	9183	Protein families: signaling and cellular processes
+7536	Cre12.g506000	K11143	9164	Neurodegenerative diseases
+7537	Cre12.g506000	K11143	9183	Protein families: signaling and cellular processes
+7579	Cre12.g507400	K01897	9103	Lipid metabolism
+7580	Cre12.g507400	K01897	71	Fatty acid degradation
+7581	Cre12.g507400	K01897	9141	Transport and catabolism
+7582	Cre12.g507400	K01897	9143	Cell growth and death
+7583	Cre12.g507400	K01897	9145	Cellular community - prokaryotes
+7584	Cre12.g507400	K01897	9152	Endocrine system
+7585	Cre12.g507400	K01897	3320	PPAR signaling pathway
+7586	Cre12.g507400	K01897	9159	Environmental adaptation
+7587	Cre12.g507400	K01897	9181	Protein families: metabolism
+7588	Cre12.g507400	K01897	9183	Protein families: signaling and cellular processes
+7606	Cre12.g508900	K04371	9132	Signal transduction
+7607	Cre12.g508900	K04371	4015	Rap1 signaling pathway
+7608	Cre12.g508900	K04371	4010	MAPK signaling pathway
+7609	Cre12.g508900	K04371	4013	MAPK signaling pathway - fly
+7610	Cre12.g508900	K04371	4011	MAPK signaling pathway - yeast
+7611	Cre12.g508900	K04371	4012	ErbB signaling pathway
+7612	Cre12.g508900	K04371	4350	TGF-beta signaling pathway
+7613	Cre12.g508900	K04371	4370	VEGF signaling pathway
+7614	Cre12.g508900	K04371	4371	Apelin signaling pathway
+7615	Cre12.g508900	K04371	4668	TNF signaling pathway
+7616	Cre12.g508900	K04371	4066	HIF-1 signaling pathway
+7617	Cre12.g508900	K04371	4068	FoxO signaling pathway
+7618	Cre12.g508900	K04371	4072	Phospholipase D signaling pathway
+7619	Cre12.g508900	K04371	4071	Sphingolipid signaling pathway
+7620	Cre12.g508900	K04371	4024	cAMP signaling pathway
+7621	Cre12.g508900	K04371	4022	cGMP-PKG signaling pathway
+7622	Cre12.g508900	K04371	4151	PI3K-Akt signaling pathway
+7623	Cre12.g508900	K04371	4150	mTOR signaling pathway
+7624	Cre12.g508900	K04371	9141	Transport and catabolism
+7625	Cre12.g508900	K04371	9143	Cell growth and death
+7626	Cre12.g508900	K04371	4210	Apoptosis
+7627	Cre12.g508900	K04371	4214	Apoptosis - fly
+7628	Cre12.g508900	K04371	4218	Cellular senescence
+7629	Cre12.g508900	K04371	9144	Cellular community - eukaryotes
+7630	Cre12.g508900	K04371	4520	Adherens junction
+7631	Cre12.g508900	K04371	4540	Gap junction
+7632	Cre12.g508900	K04371	4550	Signaling pathways regulating pluripotency of stem cells
+7633	Cre12.g508900	K04371	9142	Cell motility
+7634	Cre12.g508900	K04371	9151	Immune system
+7635	Cre12.g508900	K04371	4620	Toll-like receptor signaling pathway
+7636	Cre12.g508900	K04371	4621	NOD-like receptor signaling pathway
+7637	Cre12.g508900	K04371	4625	C-type lectin receptor signaling pathway
+7638	Cre12.g508900	K04371	4650	Natural killer cell mediated cytotoxicity
+7639	Cre12.g508900	K04371	4660	T cell receptor signaling pathway
+7640	Cre12.g508900	K04371	4658	Th1 and Th2 cell differentiation
+7641	Cre12.g508900	K04371	4659	Th17 cell differentiation
+7642	Cre12.g508900	K04371	4657	IL-17 signaling pathway
+7643	Cre12.g508900	K04371	4662	B cell receptor signaling pathway
+7644	Cre12.g508900	K04371	4664	Fc epsilon RI signaling pathway
+7645	Cre12.g508900	K04371	4666	Fc gamma R-mediated phagocytosis
+7646	Cre12.g508900	K04371	4062	Chemokine signaling pathway
+7647	Cre12.g508900	K04371	9152	Endocrine system
+7648	Cre12.g508900	K04371	4912	GnRH signaling pathway
+7649	Cre12.g508900	K04371	4915	Estrogen signaling pathway
+7650	Cre12.g508900	K04371	4914	Progesterone-mediated oocyte maturation
+7651	Cre12.g508900	K04371	4917	Prolactin signaling pathway
+7652	Cre12.g508900	K04371	4921	Oxytocin signaling pathway
+7653	Cre12.g508900	K04371	4926	Relaxin signaling pathway
+7654	Cre12.g508900	K04371	4919	Thyroid hormone signaling pathway
+7655	Cre12.g508900	K04371	4928	"Parathyroid hormone synthesis	 secretion and action"
+7656	Cre12.g508900	K04371	4916	Melanogenesis
+7657	Cre12.g508900	K04371	9153	Circulatory system
+7658	Cre12.g508900	K04371	4270	Vascular smooth muscle contraction
+7659	Cre12.g508900	K04371	9155	Excretory system
+7660	Cre12.g508900	K04371	9156	Nervous system
+7661	Cre12.g508900	K04371	4725	Cholinergic synapse
+7662	Cre12.g508900	K04371	4726	Serotonergic synapse
+7663	Cre12.g508900	K04371	4720	Long-term potentiation
+7664	Cre12.g508900	K04371	4730	Long-term depression
+7665	Cre12.g508900	K04371	4723	Retrograde endocannabinoid signaling
+7666	Cre12.g508900	K04371	4722	Neurotrophin signaling pathway
+7667	Cre12.g508900	K04371	9158	Development
+7668	Cre12.g508900	K04371	4360	Axon guidance
+7669	Cre12.g508900	K04371	4380	Osteoclast differentiation
+7670	Cre12.g508900	K04371	9159	Environmental adaptation
+7671	Cre12.g508900	K04371	9161	Cancers: Overview
+7672	Cre12.g508900	K04371	5230	Central carbon metabolism in cancer
+7673	Cre12.g508900	K04371	5231	Choline metabolism in cancer
+7674	Cre12.g508900	K04371	5205	Proteoglycans in cancer
+7675	Cre12.g508900	K04371	5203	Viral carcinogenesis
+7676	Cre12.g508900	K04371	9162	Cancers: Specific types
+7677	Cre12.g508900	K04371	5212	Pancreatic cancer
+7678	Cre12.g508900	K04371	5225	Hepatocellular carcinoma
+7679	Cre12.g508900	K04371	5226	Gastric cancer
+7680	Cre12.g508900	K04371	5214	Glioma
+7681	Cre12.g508900	K04371	5216	Thyroid cancer
+7682	Cre12.g508900	K04371	5221	Acute myeloid leukemia
+7683	Cre12.g508900	K04371	5220	Chronic myeloid leukemia
+7684	Cre12.g508900	K04371	5218	Melanoma
+7685	Cre12.g508900	K04371	5211	Renal cell carcinoma
+7686	Cre12.g508900	K04371	5219	Bladder cancer
+7687	Cre12.g508900	K04371	5215	Prostate cancer
+7688	Cre12.g508900	K04371	5213	Endometrial cancer
+7689	Cre12.g508900	K04371	5224	Breast cancer
+7690	Cre12.g508900	K04371	5223	Non-small cell lung cancer
+7691	Cre12.g508900	K04371	9164	Neurodegenerative diseases
+7692	Cre12.g508900	K04371	5020	Prion diseases
+7693	Cre12.g508900	K04371	9165	Substance dependence
+7694	Cre12.g508900	K04371	9167	Endocrine and metabolic diseases
+7695	Cre12.g508900	K04371	4933	AGE-RAGE signaling pathway in diabetic complications
+7696	Cre12.g508900	K04371	4934	Cushing syndrome
+7697	Cre12.g508900	K04371	9171	Infectious diseases: Bacterial
+7698	Cre12.g508900	K04371	5131	Shigellosis
+7699	Cre12.g508900	K04371	5133	Pertussis
+7700	Cre12.g508900	K04371	5152	Tuberculosis
+7701	Cre12.g508900	K04371	9172	Infectious diseases: Viral
+7702	Cre12.g508900	K04371	5170	Human immunodeficiency virus 1 infection
+7703	Cre12.g508900	K04371	5164	Influenza A
+7704	Cre12.g508900	K04371	5161	Hepatitis B
+7705	Cre12.g508900	K04371	5160	Hepatitis C
+7706	Cre12.g508900	K04371	5163	Human cytomegalovirus infection
+7707	Cre12.g508900	K04371	5167	Kaposi sarcoma-associated herpesvirus infection
+7708	Cre12.g508900	K04371	5165	Human papillomavirus infection
+7709	Cre12.g508900	K04371	9174	Infectious diseases: Parasitic
+7710	Cre12.g508900	K04371	5140	Leishmaniasis
+7711	Cre12.g508900	K04371	5142	Chagas disease (American trypanosomiasis)\n
+7712	Cre12.g508900	K04371	9176	Drug resistance: Antineoplastic
+7713	Cre12.g508900	K04371	1524	Platinum drug resistance
+7714	Cre12.g508900	K04371	1522	Endocrine resistance
+7715	Cre12.g508900	K04371	9181	Protein families: metabolism
+7716	Cre12.g508900	K04371	9182	Protein families: genetic information processing
+7717	Cre12.g508900	K04371	9183	Protein families: signaling and cellular processes
+7718	Cre12.g509000	K04371	9132	Signal transduction
+7719	Cre12.g509000	K04371	4015	Rap1 signaling pathway
+7720	Cre12.g509000	K04371	4010	MAPK signaling pathway
+7721	Cre12.g509000	K04371	4013	MAPK signaling pathway - fly
+7722	Cre12.g509000	K04371	4011	MAPK signaling pathway - yeast
+7723	Cre12.g509000	K04371	4012	ErbB signaling pathway
+7724	Cre12.g509000	K04371	4350	TGF-beta signaling pathway
+7725	Cre12.g509000	K04371	4370	VEGF signaling pathway
+7726	Cre12.g509000	K04371	4371	Apelin signaling pathway
+7727	Cre12.g509000	K04371	4668	TNF signaling pathway
+7728	Cre12.g509000	K04371	4066	HIF-1 signaling pathway
+7729	Cre12.g509000	K04371	4068	FoxO signaling pathway
+7730	Cre12.g509000	K04371	4072	Phospholipase D signaling pathway
+7731	Cre12.g509000	K04371	4071	Sphingolipid signaling pathway
+7732	Cre12.g509000	K04371	4024	cAMP signaling pathway
+7733	Cre12.g509000	K04371	4022	cGMP-PKG signaling pathway
+7734	Cre12.g509000	K04371	4151	PI3K-Akt signaling pathway
+7735	Cre12.g509000	K04371	4150	mTOR signaling pathway
+7736	Cre12.g509000	K04371	9141	Transport and catabolism
+7737	Cre12.g509000	K04371	9143	Cell growth and death
+7738	Cre12.g509000	K04371	4210	Apoptosis
+7739	Cre12.g509000	K04371	4214	Apoptosis - fly
+7740	Cre12.g509000	K04371	4218	Cellular senescence
+7741	Cre12.g509000	K04371	9144	Cellular community - eukaryotes
+7742	Cre12.g509000	K04371	4520	Adherens junction
+7743	Cre12.g509000	K04371	4540	Gap junction
+7744	Cre12.g509000	K04371	4550	Signaling pathways regulating pluripotency of stem cells
+7745	Cre12.g509000	K04371	9142	Cell motility
+7746	Cre12.g509000	K04371	9151	Immune system
+7747	Cre12.g509000	K04371	4620	Toll-like receptor signaling pathway
+7748	Cre12.g509000	K04371	4621	NOD-like receptor signaling pathway
+7749	Cre12.g509000	K04371	4625	C-type lectin receptor signaling pathway
+7750	Cre12.g509000	K04371	4650	Natural killer cell mediated cytotoxicity
+7751	Cre12.g509000	K04371	4660	T cell receptor signaling pathway
+7752	Cre12.g509000	K04371	4658	Th1 and Th2 cell differentiation
+7753	Cre12.g509000	K04371	4659	Th17 cell differentiation
+7754	Cre12.g509000	K04371	4657	IL-17 signaling pathway
+7755	Cre12.g509000	K04371	4662	B cell receptor signaling pathway
+7756	Cre12.g509000	K04371	4664	Fc epsilon RI signaling pathway
+7757	Cre12.g509000	K04371	4666	Fc gamma R-mediated phagocytosis
+7758	Cre12.g509000	K04371	4062	Chemokine signaling pathway
+7759	Cre12.g509000	K04371	9152	Endocrine system
+7760	Cre12.g509000	K04371	4912	GnRH signaling pathway
+7761	Cre12.g509000	K04371	4915	Estrogen signaling pathway
+7762	Cre12.g509000	K04371	4914	Progesterone-mediated oocyte maturation
+7763	Cre12.g509000	K04371	4917	Prolactin signaling pathway
+7764	Cre12.g509000	K04371	4921	Oxytocin signaling pathway
+7765	Cre12.g509000	K04371	4926	Relaxin signaling pathway
+7766	Cre12.g509000	K04371	4919	Thyroid hormone signaling pathway
+7767	Cre12.g509000	K04371	4928	"Parathyroid hormone synthesis	 secretion and action"
+7768	Cre12.g509000	K04371	4916	Melanogenesis
+7769	Cre12.g509000	K04371	9153	Circulatory system
+7770	Cre12.g509000	K04371	4270	Vascular smooth muscle contraction
+7771	Cre12.g509000	K04371	9155	Excretory system
+7772	Cre12.g509000	K04371	9156	Nervous system
+7773	Cre12.g509000	K04371	4725	Cholinergic synapse
+7774	Cre12.g509000	K04371	4726	Serotonergic synapse
+7775	Cre12.g509000	K04371	4720	Long-term potentiation
+7776	Cre12.g509000	K04371	4730	Long-term depression
+7777	Cre12.g509000	K04371	4723	Retrograde endocannabinoid signaling
+7778	Cre12.g509000	K04371	4722	Neurotrophin signaling pathway
+7779	Cre12.g509000	K04371	9158	Development
+7780	Cre12.g509000	K04371	4360	Axon guidance
+7781	Cre12.g509000	K04371	4380	Osteoclast differentiation
+7782	Cre12.g509000	K04371	9159	Environmental adaptation
+7783	Cre12.g509000	K04371	9161	Cancers: Overview
+7784	Cre12.g509000	K04371	5230	Central carbon metabolism in cancer
+7785	Cre12.g509000	K04371	5231	Choline metabolism in cancer
+7786	Cre12.g509000	K04371	5205	Proteoglycans in cancer
+7787	Cre12.g509000	K04371	5203	Viral carcinogenesis
+7788	Cre12.g509000	K04371	9162	Cancers: Specific types
+7789	Cre12.g509000	K04371	5212	Pancreatic cancer
+7790	Cre12.g509000	K04371	5225	Hepatocellular carcinoma
+7791	Cre12.g509000	K04371	5226	Gastric cancer
+7792	Cre12.g509000	K04371	5214	Glioma
+7793	Cre12.g509000	K04371	5216	Thyroid cancer
+7794	Cre12.g509000	K04371	5221	Acute myeloid leukemia
+7795	Cre12.g509000	K04371	5220	Chronic myeloid leukemia
+7796	Cre12.g509000	K04371	5218	Melanoma
+7797	Cre12.g509000	K04371	5211	Renal cell carcinoma
+7798	Cre12.g509000	K04371	5219	Bladder cancer
+7799	Cre12.g509000	K04371	5215	Prostate cancer
+7800	Cre12.g509000	K04371	5213	Endometrial cancer
+7801	Cre12.g509000	K04371	5224	Breast cancer
+7802	Cre12.g509000	K04371	5223	Non-small cell lung cancer
+7803	Cre12.g509000	K04371	9164	Neurodegenerative diseases
+7804	Cre12.g509000	K04371	5020	Prion diseases
+7805	Cre12.g509000	K04371	9165	Substance dependence
+7806	Cre12.g509000	K04371	9167	Endocrine and metabolic diseases
+7807	Cre12.g509000	K04371	4933	AGE-RAGE signaling pathway in diabetic complications
+7808	Cre12.g509000	K04371	4934	Cushing syndrome
+7809	Cre12.g509000	K04371	9171	Infectious diseases: Bacterial
+7810	Cre12.g509000	K04371	5131	Shigellosis
+7811	Cre12.g509000	K04371	5133	Pertussis
+7812	Cre12.g509000	K04371	5152	Tuberculosis
+7813	Cre12.g509000	K04371	9172	Infectious diseases: Viral
+7814	Cre12.g509000	K04371	5170	Human immunodeficiency virus 1 infection
+7815	Cre12.g509000	K04371	5164	Influenza A
+7816	Cre12.g509000	K04371	5161	Hepatitis B
+7817	Cre12.g509000	K04371	5160	Hepatitis C
+7818	Cre12.g509000	K04371	5163	Human cytomegalovirus infection
+7819	Cre12.g509000	K04371	5167	Kaposi sarcoma-associated herpesvirus infection
+7820	Cre12.g509000	K04371	5165	Human papillomavirus infection
+7821	Cre12.g509000	K04371	9174	Infectious diseases: Parasitic
+7822	Cre12.g509000	K04371	5140	Leishmaniasis
+7823	Cre12.g509000	K04371	5142	Chagas disease (American trypanosomiasis)\n
+7824	Cre12.g509000	K04371	9176	Drug resistance: Antineoplastic
+7825	Cre12.g509000	K04371	1524	Platinum drug resistance
+7826	Cre12.g509000	K04371	1522	Endocrine resistance
+7827	Cre12.g509000	K04371	9181	Protein families: metabolism
+7828	Cre12.g509000	K04371	9182	Protein families: genetic information processing
+7829	Cre12.g509000	K04371	9183	Protein families: signaling and cellular processes
+7860	Cre12.g511050	K09519	9182	Protein families: genetic information processing
+7960	Cre12.g514650	K08857	9181	Protein families: metabolism
+7961	Cre12.g514650	K08857	9182	Protein families: genetic information processing
+7962	Cre12.g514650	K08857	3400	DNA repair and recombination proteins
+8038	Cre12.g517700	K13606	9108	Metabolism of cofactors and vitamins
+8049	Cre12.g518772	K12893	9121	Transcription
+8050	Cre12.g518772	K12893	9172	Infectious diseases: Viral
+8051	Cre12.g518772	K12893	9182	Protein families: genetic information processing
+8062	Cre12.g519500	K07300	9183	Protein families: signaling and cellular processes
+8063	Cre12.g519700	K03978	9182	Protein families: genetic information processing
+8100	Cre12.g522550	K10394	9132	Signal transduction
+8101	Cre12.g522550	K10394	9183	Protein families: signaling and cellular processes
+8170	Cre12.g525200	K14564	9122	Translation
+8171	Cre12.g525200	K14564	9182	Protein families: genetic information processing
+8192	Cre12.g527300	K10756	9124	Replication and repair
+8193	Cre12.g527300	K10756	3420	Nucleotide excision repair
+8194	Cre12.g527300	K10756	3430	Mismatch repair
+8195	Cre12.g527300	K10756	9182	Protein families: genetic information processing
+8196	Cre12.g527300	K10756	3036	Chromosome and associated proteins
+8197	Cre12.g527300	K10756	3400	DNA repair and recombination proteins
+8198	Cre12.g527450	K02183	9132	Signal transduction
+8199	Cre12.g527450	K02183	4015	Rap1 signaling pathway
+8200	Cre12.g527450	K02183	4016	MAPK signaling pathway - plant
+8201	Cre12.g527450	K02183	4371	Apelin signaling pathway
+8202	Cre12.g527450	K02183	4020	Calcium signaling pathway
+8203	Cre12.g527450	K02183	4070	Phosphatidylinositol signaling system
+8204	Cre12.g527450	K02183	4024	cAMP signaling pathway
+8205	Cre12.g527450	K02183	4022	cGMP-PKG signaling pathway
+8206	Cre12.g527450	K02183	9143	Cell growth and death
+8207	Cre12.g527450	K02183	4218	Cellular senescence
+8208	Cre12.g527450	K02183	9151	Immune system
+8209	Cre12.g527450	K02183	9152	Endocrine system
+8210	Cre12.g527450	K02183	4922	Glucagon signaling pathway
+8211	Cre12.g527450	K02183	4912	GnRH signaling pathway
+8212	Cre12.g527450	K02183	4915	Estrogen signaling pathway
+8213	Cre12.g527450	K02183	4921	Oxytocin signaling pathway
+8214	Cre12.g527450	K02183	4916	Melanogenesis
+8215	Cre12.g527450	K02183	4924	Renin secretion
+8216	Cre12.g527450	K02183	4925	Aldosterone synthesis and secretion
+8217	Cre12.g527450	K02183	9153	Circulatory system
+8218	Cre12.g527450	K02183	4270	Vascular smooth muscle contraction
+8219	Cre12.g527450	K02183	9154	Digestive system
+8220	Cre12.g527450	K02183	4971	Gastric acid secretion
+8221	Cre12.g527450	K02183	9156	Nervous system
+8222	Cre12.g527450	K02183	4720	Long-term potentiation
+8223	Cre12.g527450	K02183	4722	Neurotrophin signaling pathway
+8224	Cre12.g527450	K02183	9157	Sensory system
+8225	Cre12.g527450	K02183	4745	Phototransduction - fly
+8226	Cre12.g527450	K02183	4740	Olfactory transduction
+8227	Cre12.g527450	K02183	4750	Inflammatory mediator regulation of TRP channels
+8228	Cre12.g527450	K02183	9159	Environmental adaptation
+8229	Cre12.g527450	K02183	4626	Plant-pathogen interaction
+8230	Cre12.g527450	K02183	9161	Cancers: Overview
+8231	Cre12.g527450	K02183	9162	Cancers: Specific types
+8232	Cre12.g527450	K02183	9164	Neurodegenerative diseases
+8233	Cre12.g527450	K02183	9165	Substance dependence
+8234	Cre12.g527450	K02183	5034	Alcoholism
+8235	Cre12.g527450	K02183	9166	Cardiovascular diseases
+8236	Cre12.g527450	K02183	9171	Infectious diseases: Bacterial
+8237	Cre12.g527450	K02183	5152	Tuberculosis
+8238	Cre12.g527450	K02183	9172	Infectious diseases: Viral
+8239	Cre12.g527450	K02183	5163	Human cytomegalovirus infection
+8240	Cre12.g527450	K02183	5167	Kaposi sarcoma-associated herpesvirus infection
+8241	Cre12.g527450	K02183	9181	Protein families: metabolism
+8242	Cre12.g527450	K02183	9182	Protein families: genetic information processing
+8243	Cre12.g527450	K02183	3036	Chromosome and associated proteins
+8244	Cre12.g527450	K02183	9183	Protein families: signaling and cellular processes
+8249	Cre12.g527800	K10412	9164	Neurodegenerative diseases
+8250	Cre12.g527800	K10412	9183	Protein families: signaling and cellular processes
+8277	Cre12.g529150	K17506	9181	Protein families: metabolism
+8350	Cre12.g533050	K14538	9122	Translation
+8351	Cre12.g533050	K14538	9182	Protein families: genetic information processing
+8373	Cre12.g535750	K12251	9105	Amino acid metabolism
+8387	Cre12.g536550	K10409	9164	Neurodegenerative diseases
+8388	Cre12.g536550	K10409	9183	Protein families: signaling and cellular processes
+8392	Cre12.g537200	K00164	9101	Carbohydrate metabolism
+8393	Cre12.g537200	K00164	9105	Amino acid metabolism
+8394	Cre12.g537200	K00164	380	Tryptophan metabolism
+8447	Cre12.g542250	K07375	9141	Transport and catabolism
+8448	Cre12.g542250	K07375	9144	Cellular community - eukaryotes
+8449	Cre12.g542250	K07375	9171	Infectious diseases: Bacterial
+8450	Cre12.g542250	K07375	9182	Protein families: genetic information processing
+8451	Cre12.g542250	K07375	9183	Protein families: signaling and cellular processes
+8452	Cre12.g542250	K07375	4147	Exosome
+8453	Cre12.g542300	K15918	9101	Carbohydrate metabolism
+8454	Cre12.g542300	K15918	9103	Lipid metabolism
+8455	Cre12.g542300	K15918	9105	Amino acid metabolism
+8517	Cre12.g546400	K10419	9182	Protein families: genetic information processing
+8518	Cre12.g546400	K10419	9183	Protein families: signaling and cellular processes
+8538	Cre12.g549550	K07375	9141	Transport and catabolism
+8539	Cre12.g549550	K07375	9144	Cellular community - eukaryotes
+8540	Cre12.g549550	K07375	9171	Infectious diseases: Bacterial
+8541	Cre12.g549550	K07375	9182	Protein families: genetic information processing
+8542	Cre12.g549550	K07375	9183	Protein families: signaling and cellular processes
+8543	Cre12.g549550	K07375	4147	Exosome
+8563	Cre12.g550700	K00601	9104	Nucleotide metabolism
+8564	Cre12.g550700	K00601	9108	Metabolism of cofactors and vitamins
+8596	Cre12.g553900	K04905	9183	Protein families: signaling and cellular processes
+8623	Cre12.g555950	K10408	9164	Neurodegenerative diseases
+8624	Cre12.g555950	K10408	9183	Protein families: signaling and cellular processes
+8668	Cre12.g557600	K00939	9104	Nucleotide metabolism
+8669	Cre12.g557600	K00939	9108	Metabolism of cofactors and vitamins
+8670	Cre12.g557600	K00939	9183	Protein families: signaling and cellular processes
+8689	Cre12.g558700	K00940	9104	Nucleotide metabolism
+8690	Cre12.g558700	K00940	240	Pyrimidine metabolism
+8691	Cre12.g558700	K00940	9111	Xenobiotics biodegradation and metabolism
+8692	Cre12.g558700	K00940	9132	Signal transduction
+8693	Cre12.g558700	K00940	9182	Protein families: genetic information processing
+8727	Cre12.g560350	K08857	9181	Protein families: metabolism
+8728	Cre12.g560350	K08857	9182	Protein families: genetic information processing
+8729	Cre12.g560350	K08857	3400	DNA repair and recombination proteins
+8738	Cre12.g561000	K03768	9182	Protein families: genetic information processing
+8744	Cre13.g562300	K11275	9182	Protein families: genetic information processing
+8745	Cre13.g562550	K18914	9182	Protein families: genetic information processing
+8756	Cre13.g563550	K01099	9101	Carbohydrate metabolism
+8757	Cre13.g563550	K01099	9132	Signal transduction
+8758	Cre13.g563550	K01099	9182	Protein families: genetic information processing
+8759	Cre13.g563733	K04368	9132	Signal transduction
+8760	Cre13.g563733	K04368	4015	Rap1 signaling pathway
+8761	Cre13.g563733	K04368	4010	MAPK signaling pathway
+8762	Cre13.g563733	K04368	4013	MAPK signaling pathway - fly
+8763	Cre13.g563733	K04368	4012	ErbB signaling pathway
+8764	Cre13.g563733	K04368	4370	VEGF signaling pathway
+8765	Cre13.g563733	K04368	4371	Apelin signaling pathway
+8766	Cre13.g563733	K04368	4668	TNF signaling pathway
+8767	Cre13.g563733	K04368	4066	HIF-1 signaling pathway
+8768	Cre13.g563733	K04368	4068	FoxO signaling pathway
+8769	Cre13.g563733	K04368	4072	Phospholipase D signaling pathway
+8770	Cre13.g563733	K04368	4071	Sphingolipid signaling pathway
+8771	Cre13.g563733	K04368	4024	cAMP signaling pathway
+8772	Cre13.g563733	K04368	4022	cGMP-PKG signaling pathway
+8773	Cre13.g563733	K04368	4151	PI3K-Akt signaling pathway
+8774	Cre13.g563733	K04368	4150	mTOR signaling pathway
+8775	Cre13.g563733	K04368	9141	Transport and catabolism
+8776	Cre13.g563733	K04368	9143	Cell growth and death
+8777	Cre13.g563733	K04368	4210	Apoptosis
+8778	Cre13.g563733	K04368	4218	Cellular senescence
+8779	Cre13.g563733	K04368	9144	Cellular community - eukaryotes
+8780	Cre13.g563733	K04368	4540	Gap junction
+8781	Cre13.g563733	K04368	4550	Signaling pathways regulating pluripotency of stem cells
+8782	Cre13.g563733	K04368	9142	Cell motility
+8783	Cre13.g563733	K04368	9151	Immune system
+8784	Cre13.g563733	K04368	4650	Natural killer cell mediated cytotoxicity
+8785	Cre13.g563733	K04368	4660	T cell receptor signaling pathway
+8786	Cre13.g563733	K04368	4662	B cell receptor signaling pathway
+8787	Cre13.g563733	K04368	4664	Fc epsilon RI signaling pathway
+8788	Cre13.g563733	K04368	4666	Fc gamma R-mediated phagocytosis
+8789	Cre13.g563733	K04368	4062	Chemokine signaling pathway
+8790	Cre13.g563733	K04368	9152	Endocrine system
+8791	Cre13.g563733	K04368	4912	GnRH signaling pathway
+8792	Cre13.g563733	K04368	4915	Estrogen signaling pathway
+8793	Cre13.g563733	K04368	4914	Progesterone-mediated oocyte maturation
+8794	Cre13.g563733	K04368	4917	Prolactin signaling pathway
+8795	Cre13.g563733	K04368	4921	Oxytocin signaling pathway
+8796	Cre13.g563733	K04368	4926	Relaxin signaling pathway
+8797	Cre13.g563733	K04368	4919	Thyroid hormone signaling pathway
+8798	Cre13.g563733	K04368	4928	"Parathyroid hormone synthesis	 secretion and action"
+8799	Cre13.g563733	K04368	4916	Melanogenesis
+8800	Cre13.g563733	K04368	9153	Circulatory system
+8801	Cre13.g563733	K04368	9156	Nervous system
+8802	Cre13.g563733	K04368	4726	Serotonergic synapse
+8803	Cre13.g563733	K04368	4720	Long-term potentiation
+8804	Cre13.g563733	K04368	4730	Long-term depression
+8805	Cre13.g563733	K04368	4722	Neurotrophin signaling pathway
+8806	Cre13.g563733	K04368	9158	Development
+8807	Cre13.g563733	K04368	4380	Osteoclast differentiation
+8808	Cre13.g563733	K04368	9159	Environmental adaptation
+8809	Cre13.g563733	K04368	9161	Cancers: Overview
+8810	Cre13.g563733	K04368	5230	Central carbon metabolism in cancer
+8811	Cre13.g563733	K04368	5231	Choline metabolism in cancer
+8812	Cre13.g563733	K04368	5206	MicroRNAs in cancer
+8813	Cre13.g563733	K04368	5205	Proteoglycans in cancer
+8814	Cre13.g563733	K04368	9162	Cancers: Specific types
+8815	Cre13.g563733	K04368	5212	Pancreatic cancer
+8816	Cre13.g563733	K04368	5225	Hepatocellular carcinoma
+8817	Cre13.g563733	K04368	5226	Gastric cancer
+8818	Cre13.g563733	K04368	5214	Glioma
+8819	Cre13.g563733	K04368	5216	Thyroid cancer
+8820	Cre13.g563733	K04368	5221	Acute myeloid leukemia
+8821	Cre13.g563733	K04368	5220	Chronic myeloid leukemia
+8822	Cre13.g563733	K04368	5218	Melanoma
+8823	Cre13.g563733	K04368	5211	Renal cell carcinoma
+8824	Cre13.g563733	K04368	5219	Bladder cancer
+8825	Cre13.g563733	K04368	5215	Prostate cancer
+8826	Cre13.g563733	K04368	5213	Endometrial cancer
+8827	Cre13.g563733	K04368	5224	Breast cancer
+8828	Cre13.g563733	K04368	5223	Non-small cell lung cancer
+8829	Cre13.g563733	K04368	9164	Neurodegenerative diseases
+8830	Cre13.g563733	K04368	9165	Substance dependence
+8831	Cre13.g563733	K04368	9167	Endocrine and metabolic diseases
+8832	Cre13.g563733	K04368	9172	Infectious diseases: Viral
+8833	Cre13.g563733	K04368	5170	Human immunodeficiency virus 1 infection
+8834	Cre13.g563733	K04368	5164	Influenza A
+8835	Cre13.g563733	K04368	5161	Hepatitis B
+8836	Cre13.g563733	K04368	5160	Hepatitis C
+8837	Cre13.g563733	K04368	5163	Human cytomegalovirus infection
+8838	Cre13.g563733	K04368	5167	Kaposi sarcoma-associated herpesvirus infection
+8839	Cre13.g563733	K04368	5165	Human papillomavirus infection
+8840	Cre13.g563733	K04368	9176	Drug resistance: Antineoplastic
+8841	Cre13.g563733	K04368	1522	Endocrine resistance
+8842	Cre13.g563733	K04368	9181	Protein families: metabolism
+8851	Cre13.g564350	K04728	9124	Replication and repair
+8852	Cre13.g564350	K04728	9132	Signal transduction
+8853	Cre13.g564350	K04728	4068	FoxO signaling pathway
+8854	Cre13.g564350	K04728	9143	Cell growth and death
+8855	Cre13.g564350	K04728	4210	Apoptosis
+8856	Cre13.g564350	K04728	4214	Apoptosis - fly
+8857	Cre13.g564350	K04728	4115	p53 signaling pathway
+8858	Cre13.g564350	K04728	4218	Cellular senescence
+8859	Cre13.g564350	K04728	9161	Cancers: Overview
+8860	Cre13.g564350	K04728	5206	MicroRNAs in cancer
+8861	Cre13.g564350	K04728	9172	Infectious diseases: Viral
+8862	Cre13.g564350	K04728	5170	Human immunodeficiency virus 1 infection
+8863	Cre13.g564350	K04728	5165	Human papillomavirus infection
+8864	Cre13.g564350	K04728	9176	Drug resistance: Antineoplastic
+8865	Cre13.g564350	K04728	9181	Protein families: metabolism
+8866	Cre13.g564350	K04728	9182	Protein families: genetic information processing
+8867	Cre13.g564350	K04728	3400	DNA repair and recombination proteins
+8868	Cre13.g564500	K13412	9159	Environmental adaptation
+8869	Cre13.g564500	K13412	9174	Infectious diseases: Parasitic
+8870	Cre13.g564500	K13412	9181	Protein families: metabolism
+8872	Cre13.g564766	K13293	9104	Nucleotide metabolism
+8873	Cre13.g564766	K13293	9132	Signal transduction
+8874	Cre13.g564766	K13293	9152	Endocrine system
+8875	Cre13.g564766	K13293	9165	Substance dependence
+8903	Cre13.g566000	K01938	9102	Energy metabolism
+8904	Cre13.g566000	K01938	9108	Metabolism of cofactors and vitamins
+8923	Cre13.g567550	K08857	9181	Protein families: metabolism
+8924	Cre13.g567550	K08857	9182	Protein families: genetic information processing
+8925	Cre13.g567550	K08857	3400	DNA repair and recombination proteins
+8947	Cre13.g567850	K11128	9122	Translation
+8948	Cre13.g567850	K11128	9182	Protein families: genetic information processing
+8949	Cre13.g567850	K11128	3032	DNA replication proteins
+9061	Cre13.g575000	K07399	9192	Unclassified: genetic information processing
+9071	Cre13.g576650	K11755	9105	Amino acid metabolism
+9072	Cre13.g576800	K09592	9132	Signal transduction
+9073	Cre13.g576800	K09592	9161	Cancers: Overview
+9074	Cre13.g576800	K09592	9162	Cancers: Specific types
+9112	Cre13.g578750	K00207	9104	Nucleotide metabolism
+9113	Cre13.g578750	K00207	9106	Metabolism of other amino acids
+9114	Cre13.g578750	K00207	9108	Metabolism of cofactors and vitamins
+9115	Cre13.g578750	K00207	9111	Xenobiotics biodegradation and metabolism
+9157	Cre13.g579598	K00703	9101	Carbohydrate metabolism
+9158	Cre13.g579598	K00703	9145	Cellular community - prokaryotes
+9159	Cre13.g579598	K00703	9181	Protein families: metabolism
+9185	Cre13.g582650	K08830	9181	Protein families: metabolism
+9186	Cre13.g582671	K08830	9181	Protein families: metabolism
+9215	Cre13.g586300	K09568	9182	Protein families: genetic information processing
+9281	Cre13.g592050	K01466	9104	Nucleotide metabolism
+9284	Cre13.g592200	K00264	9102	Energy metabolism
+9285	Cre13.g592200	K00264	9105	Amino acid metabolism
+9291	Cre13.g602400	K10401	9183	Protein families: signaling and cellular processes
+9296	Cre13.g602901	K03639	9108	Metabolism of cofactors and vitamins
+9297	Cre13.g602901	K03639	9123	"Folding	 sorting and degradation"
+9313	Cre13.g605650	K00130	9105	Amino acid metabolism
+9343	Cre14.g608452	K11366	9181	Protein families: metabolism
+9344	Cre14.g608452	K11366	9182	Protein families: genetic information processing
+9345	Cre14.g608452	K11366	4121	Ubiquitin system
+9346	Cre14.g608452	K11366	3036	Chromosome and associated proteins
+9350	Cre14.g610450	K14715	9183	Protein families: signaling and cellular processes
+9351	Cre14.g610750	K03327	9183	Protein families: signaling and cellular processes
+9390	Cre14.g616100	K14826	9182	Protein families: genetic information processing
+9399	Cre14.g617550	K02183	9132	Signal transduction
+9400	Cre14.g617550	K02183	4015	Rap1 signaling pathway
+9401	Cre14.g617550	K02183	4016	MAPK signaling pathway - plant
+9402	Cre14.g617550	K02183	4371	Apelin signaling pathway
+9403	Cre14.g617550	K02183	4020	Calcium signaling pathway
+9404	Cre14.g617550	K02183	4070	Phosphatidylinositol signaling system
+9405	Cre14.g617550	K02183	4024	cAMP signaling pathway
+9406	Cre14.g617550	K02183	4022	cGMP-PKG signaling pathway
+9407	Cre14.g617550	K02183	9143	Cell growth and death
+9408	Cre14.g617550	K02183	4218	Cellular senescence
+9409	Cre14.g617550	K02183	9151	Immune system
+9410	Cre14.g617550	K02183	9152	Endocrine system
+9411	Cre14.g617550	K02183	4922	Glucagon signaling pathway
+9412	Cre14.g617550	K02183	4912	GnRH signaling pathway
+9413	Cre14.g617550	K02183	4915	Estrogen signaling pathway
+9414	Cre14.g617550	K02183	4921	Oxytocin signaling pathway
+9415	Cre14.g617550	K02183	4916	Melanogenesis
+9416	Cre14.g617550	K02183	4924	Renin secretion
+9417	Cre14.g617550	K02183	4925	Aldosterone synthesis and secretion
+9418	Cre14.g617550	K02183	9153	Circulatory system
+9419	Cre14.g617550	K02183	4270	Vascular smooth muscle contraction
+9420	Cre14.g617550	K02183	9154	Digestive system
+9421	Cre14.g617550	K02183	4971	Gastric acid secretion
+9422	Cre14.g617550	K02183	9156	Nervous system
+9423	Cre14.g617550	K02183	4720	Long-term potentiation
+9424	Cre14.g617550	K02183	4722	Neurotrophin signaling pathway
+9425	Cre14.g617550	K02183	9157	Sensory system
+9426	Cre14.g617550	K02183	4745	Phototransduction - fly
+9427	Cre14.g617550	K02183	4740	Olfactory transduction
+9428	Cre14.g617550	K02183	4750	Inflammatory mediator regulation of TRP channels
+9429	Cre14.g617550	K02183	9159	Environmental adaptation
+9430	Cre14.g617550	K02183	4626	Plant-pathogen interaction
+9431	Cre14.g617550	K02183	9161	Cancers: Overview
+9432	Cre14.g617550	K02183	9162	Cancers: Specific types
+9433	Cre14.g617550	K02183	9164	Neurodegenerative diseases
+9434	Cre14.g617550	K02183	9165	Substance dependence
+9435	Cre14.g617550	K02183	5034	Alcoholism
+9436	Cre14.g617550	K02183	9166	Cardiovascular diseases
+9437	Cre14.g617550	K02183	9171	Infectious diseases: Bacterial
+9438	Cre14.g617550	K02183	5152	Tuberculosis
+9439	Cre14.g617550	K02183	9172	Infectious diseases: Viral
+9440	Cre14.g617550	K02183	5163	Human cytomegalovirus infection
+9441	Cre14.g617550	K02183	5167	Kaposi sarcoma-associated herpesvirus infection
+9442	Cre14.g617550	K02183	9181	Protein families: metabolism
+9443	Cre14.g617550	K02183	9182	Protein families: genetic information processing
+9444	Cre14.g617550	K02183	3036	Chromosome and associated proteins
+9445	Cre14.g617550	K02183	9183	Protein families: signaling and cellular processes
+9446	Cre14.g617750	K13293	9104	Nucleotide metabolism
+9447	Cre14.g617750	K13293	9132	Signal transduction
+9448	Cre14.g617750	K13293	9152	Endocrine system
+9449	Cre14.g617750	K13293	9165	Substance dependence
+9452	Cre14.g617950	K02183	9132	Signal transduction
+9453	Cre14.g617950	K02183	4015	Rap1 signaling pathway
+9454	Cre14.g617950	K02183	4016	MAPK signaling pathway - plant
+9455	Cre14.g617950	K02183	4371	Apelin signaling pathway
+9456	Cre14.g617950	K02183	4020	Calcium signaling pathway
+9457	Cre14.g617950	K02183	4070	Phosphatidylinositol signaling system
+9458	Cre14.g617950	K02183	4024	cAMP signaling pathway
+9459	Cre14.g617950	K02183	4022	cGMP-PKG signaling pathway
+9460	Cre14.g617950	K02183	9143	Cell growth and death
+9461	Cre14.g617950	K02183	4218	Cellular senescence
+9462	Cre14.g617950	K02183	9151	Immune system
+9463	Cre14.g617950	K02183	9152	Endocrine system
+9464	Cre14.g617950	K02183	4922	Glucagon signaling pathway
+9465	Cre14.g617950	K02183	4912	GnRH signaling pathway
+9466	Cre14.g617950	K02183	4915	Estrogen signaling pathway
+9467	Cre14.g617950	K02183	4921	Oxytocin signaling pathway
+9468	Cre14.g617950	K02183	4916	Melanogenesis
+9469	Cre14.g617950	K02183	4924	Renin secretion
+9470	Cre14.g617950	K02183	4925	Aldosterone synthesis and secretion
+9471	Cre14.g617950	K02183	9153	Circulatory system
+9472	Cre14.g617950	K02183	4270	Vascular smooth muscle contraction
+9473	Cre14.g617950	K02183	9154	Digestive system
+9474	Cre14.g617950	K02183	4971	Gastric acid secretion
+9475	Cre14.g617950	K02183	9156	Nervous system
+9476	Cre14.g617950	K02183	4720	Long-term potentiation
+9477	Cre14.g617950	K02183	4722	Neurotrophin signaling pathway
+9478	Cre14.g617950	K02183	9157	Sensory system
+9479	Cre14.g617950	K02183	4745	Phototransduction - fly
+9480	Cre14.g617950	K02183	4740	Olfactory transduction
+9481	Cre14.g617950	K02183	4750	Inflammatory mediator regulation of TRP channels
+9482	Cre14.g617950	K02183	9159	Environmental adaptation
+9483	Cre14.g617950	K02183	4626	Plant-pathogen interaction
+9484	Cre14.g617950	K02183	9161	Cancers: Overview
+9485	Cre14.g617950	K02183	9162	Cancers: Specific types
+9486	Cre14.g617950	K02183	9164	Neurodegenerative diseases
+9487	Cre14.g617950	K02183	9165	Substance dependence
+9488	Cre14.g617950	K02183	5034	Alcoholism
+9489	Cre14.g617950	K02183	9166	Cardiovascular diseases
+9490	Cre14.g617950	K02183	9171	Infectious diseases: Bacterial
+9491	Cre14.g617950	K02183	5152	Tuberculosis
+9492	Cre14.g617950	K02183	9172	Infectious diseases: Viral
+9493	Cre14.g617950	K02183	5163	Human cytomegalovirus infection
+9494	Cre14.g617950	K02183	5167	Kaposi sarcoma-associated herpesvirus infection
+9495	Cre14.g617950	K02183	9181	Protein families: metabolism
+9496	Cre14.g617950	K02183	9182	Protein families: genetic information processing
+9497	Cre14.g617950	K02183	3036	Chromosome and associated proteins
+9498	Cre14.g617950	K02183	9183	Protein families: signaling and cellular processes
+9499	Cre14.g618000	K02183	9132	Signal transduction
+9500	Cre14.g618000	K02183	4015	Rap1 signaling pathway
+9501	Cre14.g618000	K02183	4016	MAPK signaling pathway - plant
+9502	Cre14.g618000	K02183	4371	Apelin signaling pathway
+9503	Cre14.g618000	K02183	4020	Calcium signaling pathway
+9504	Cre14.g618000	K02183	4070	Phosphatidylinositol signaling system
+9505	Cre14.g618000	K02183	4024	cAMP signaling pathway
+9506	Cre14.g618000	K02183	4022	cGMP-PKG signaling pathway
+9507	Cre14.g618000	K02183	9143	Cell growth and death
+9508	Cre14.g618000	K02183	4218	Cellular senescence
+9509	Cre14.g618000	K02183	9151	Immune system
+9510	Cre14.g618000	K02183	9152	Endocrine system
+9511	Cre14.g618000	K02183	4922	Glucagon signaling pathway
+9512	Cre14.g618000	K02183	4912	GnRH signaling pathway
+9513	Cre14.g618000	K02183	4915	Estrogen signaling pathway
+9514	Cre14.g618000	K02183	4921	Oxytocin signaling pathway
+9515	Cre14.g618000	K02183	4916	Melanogenesis
+9516	Cre14.g618000	K02183	4924	Renin secretion
+9517	Cre14.g618000	K02183	4925	Aldosterone synthesis and secretion
+9518	Cre14.g618000	K02183	9153	Circulatory system
+9519	Cre14.g618000	K02183	4270	Vascular smooth muscle contraction
+9520	Cre14.g618000	K02183	9154	Digestive system
+9521	Cre14.g618000	K02183	4971	Gastric acid secretion
+9522	Cre14.g618000	K02183	9156	Nervous system
+9523	Cre14.g618000	K02183	4720	Long-term potentiation
+9524	Cre14.g618000	K02183	4722	Neurotrophin signaling pathway
+9525	Cre14.g618000	K02183	9157	Sensory system
+9526	Cre14.g618000	K02183	4745	Phototransduction - fly
+9527	Cre14.g618000	K02183	4740	Olfactory transduction
+9528	Cre14.g618000	K02183	4750	Inflammatory mediator regulation of TRP channels
+9529	Cre14.g618000	K02183	9159	Environmental adaptation
+9530	Cre14.g618000	K02183	4626	Plant-pathogen interaction
+9531	Cre14.g618000	K02183	9161	Cancers: Overview
+9532	Cre14.g618000	K02183	9162	Cancers: Specific types
+9533	Cre14.g618000	K02183	9164	Neurodegenerative diseases
+9534	Cre14.g618000	K02183	9165	Substance dependence
+9535	Cre14.g618000	K02183	5034	Alcoholism
+9536	Cre14.g618000	K02183	9166	Cardiovascular diseases
+9537	Cre14.g618000	K02183	9171	Infectious diseases: Bacterial
+9538	Cre14.g618000	K02183	5152	Tuberculosis
+9539	Cre14.g618000	K02183	9172	Infectious diseases: Viral
+9540	Cre14.g618000	K02183	5163	Human cytomegalovirus infection
+9541	Cre14.g618000	K02183	5167	Kaposi sarcoma-associated herpesvirus infection
+9542	Cre14.g618000	K02183	9181	Protein families: metabolism
+9543	Cre14.g618000	K02183	9182	Protein families: genetic information processing
+9544	Cre14.g618000	K02183	3036	Chromosome and associated proteins
+9545	Cre14.g618000	K02183	9183	Protein families: signaling and cellular processes
+9655	Cre14.g624950	K10408	9164	Neurodegenerative diseases
+9656	Cre14.g624950	K10408	9183	Protein families: signaling and cellular processes
+9658	Cre14.g625350	K03327	9183	Protein families: signaling and cellular processes
+9673	Cre14.g627576	K10408	9164	Neurodegenerative diseases
+9674	Cre14.g627576	K10408	9183	Protein families: signaling and cellular processes
+9698	Cre14.g629700	K00029	9101	Carbohydrate metabolism
+9699	Cre14.g629700	K00029	9102	Energy metabolism
+9725	Cre14.g631200	K17580	9181	Protein families: metabolism
+9731	Cre14.g632767	K01104	9191	Unclassified: metabolism
+9788	Cre15.g641200	K15103	9183	Protein families: signaling and cellular processes
+9818	Cre15.g641266	K15285	9183	Protein families: signaling and cellular processes
+9855	Cre16.g649050	K12319	9104	Nucleotide metabolism
+9856	Cre16.g649050	K12319	9132	Signal transduction
+9857	Cre16.g649050	K12319	9144	Cellular community - eukaryotes
+9858	Cre16.g649050	K12319	9151	Immune system
+9859	Cre16.g649050	K12319	9152	Endocrine system
+9860	Cre16.g649050	K12319	4924	Renin secretion
+9861	Cre16.g649050	K12319	9153	Circulatory system
+9862	Cre16.g649050	K12319	9154	Digestive system
+9863	Cre16.g649050	K12319	9156	Nervous system
+9864	Cre16.g649050	K12319	9159	Environmental adaptation
+9868	Cre16.g649466	K07300	9183	Protein families: signaling and cellular processes
+9929	Cre16.g654300	K00940	9104	Nucleotide metabolism
+9930	Cre16.g654300	K00940	240	Pyrimidine metabolism
+9931	Cre16.g654300	K00940	9111	Xenobiotics biodegradation and metabolism
+9932	Cre16.g654300	K00940	9132	Signal transduction
+9933	Cre16.g654300	K00940	9182	Protein families: genetic information processing
+9939	Cre16.g655200	K14640	9183	Protein families: signaling and cellular processes
+9979	Cre16.g657979	K10406	9183	Protein families: signaling and cellular processes
+9980	Cre16.g658075	K01515	9104	Nucleotide metabolism
+9996	Cre16.g659600	K14834	9182	Protein families: genetic information processing
+10011	Cre16.g661100	K08829	9181	Protein families: metabolism
+10048	Cre16.g663350	K03544	9143	Cell growth and death
+10049	Cre16.g663350	K03544	9182	Protein families: genetic information processing
+10061	Cre16.g663900	K01749	9108	Metabolism of cofactors and vitamins
+10090	Cre16.g665450	K04958	9132	Signal transduction
+10091	Cre16.g665450	K04958	4020	Calcium signaling pathway
+10092	Cre16.g665450	K04958	4070	Phosphatidylinositol signaling system
+10093	Cre16.g665450	K04958	4022	cGMP-PKG signaling pathway
+10094	Cre16.g665450	K04958	9141	Transport and catabolism
+10095	Cre16.g665450	K04958	9143	Cell growth and death
+10096	Cre16.g665450	K04958	4210	Apoptosis
+10097	Cre16.g665450	K04958	4218	Cellular senescence
+10098	Cre16.g665450	K04958	9144	Cellular community - eukaryotes
+10099	Cre16.g665450	K04958	9151	Immune system
+10100	Cre16.g665450	K04958	4621	NOD-like receptor signaling pathway
+10101	Cre16.g665450	K04958	4625	C-type lectin receptor signaling pathway
+10102	Cre16.g665450	K04958	9152	Endocrine system
+10103	Cre16.g665450	K04958	4912	GnRH signaling pathway
+10104	Cre16.g665450	K04958	4915	Estrogen signaling pathway
+10105	Cre16.g665450	K04958	4921	Oxytocin signaling pathway
+10106	Cre16.g665450	K04958	4918	Thyroid hormone synthesis
+10107	Cre16.g665450	K04958	4928	"Parathyroid hormone synthesis	 secretion and action"
+10108	Cre16.g665450	K04958	4924	Renin secretion
+10109	Cre16.g665450	K04958	4925	Aldosterone synthesis and secretion
+10110	Cre16.g665450	K04958	4927	Cortisol synthesis and secretion
+10111	Cre16.g665450	K04958	9153	Circulatory system
+10112	Cre16.g665450	K04958	9154	Digestive system
+10113	Cre16.g665450	K04958	4971	Gastric acid secretion
+10114	Cre16.g665450	K04958	4972	Pancreatic secretion
+10115	Cre16.g665450	K04958	9156	Nervous system
+10116	Cre16.g665450	K04958	4725	Cholinergic synapse
+10117	Cre16.g665450	K04958	4728	Dopaminergic synapse
+10118	Cre16.g665450	K04958	4726	Serotonergic synapse
+10119	Cre16.g665450	K04958	4720	Long-term potentiation
+10120	Cre16.g665450	K04958	4730	Long-term depression
+10121	Cre16.g665450	K04958	4723	Retrograde endocannabinoid signaling
+10122	Cre16.g665450	K04958	9157	Sensory system
+10123	Cre16.g665450	K04958	4750	Inflammatory mediator regulation of TRP channels
+10124	Cre16.g665450	K04958	9159	Environmental adaptation
+10125	Cre16.g665450	K04958	9161	Cancers: Overview
+10126	Cre16.g665450	K04958	9164	Neurodegenerative diseases
+10127	Cre16.g665450	K04958	5016	Huntington disease
+10128	Cre16.g665450	K04958	9167	Endocrine and metabolic diseases
+10129	Cre16.g665450	K04958	9172	Infectious diseases: Viral
+10130	Cre16.g665450	K04958	5163	Human cytomegalovirus infection
+10131	Cre16.g665450	K04958	5167	Kaposi sarcoma-associated herpesvirus infection
+10132	Cre16.g665450	K04958	9181	Protein families: metabolism
+10133	Cre16.g665450	K04958	9183	Protein families: signaling and cellular processes
+10159	Cre16.g666500	K16781	9182	Protein families: genetic information processing
+10259	Cre16.g671250	K12041	9183	Protein families: signaling and cellular processes
+10260	Cre16.g671300	K12041	9183	Protein families: signaling and cellular processes
+10307	Cre16.g673600	K08850	9181	Protein families: metabolism
+10308	Cre16.g673600	K08850	9182	Protein families: genetic information processing
+10311	Cre16.g673700	K14799	9182	Protein families: genetic information processing
+10344	Cre16.g675650	K00140	9101	Carbohydrate metabolism
+10345	Cre16.g675650	K00140	562	Inositol phosphate metabolism
+10346	Cre16.g675650	K00140	9105	Amino acid metabolism
+10347	Cre16.g675650	K00140	9106	Metabolism of other amino acids
+10368	Cre16.g676309	K08850	9181	Protein families: metabolism
+10369	Cre16.g676309	K08850	9182	Protein families: genetic information processing
+10395	Cre16.g677950	K07119	9194	Poorly characterized
+10408	Cre16.g678850	K01641	9101	Carbohydrate metabolism
+10409	Cre16.g678850	K01641	9103	Lipid metabolism
+10410	Cre16.g678850	K01641	9105	Amino acid metabolism
+10411	Cre16.g678850	K01641	9109	Metabolism of terpenoids and polyketides
+10429	Cre16.g679669	K00991	9109	Metabolism of terpenoids and polyketides
+10480	Cre16.g681850	K00876	9104	Nucleotide metabolism
+10481	Cre16.g681850	K00876	9111	Xenobiotics biodegradation and metabolism
+10484	Cre16.g682100	K08081	9110	Biosynthesis of other secondary metabolites
+10496	Cre16.g683081	K09858	9194	Poorly characterized
+10509	Cre16.g683750	K13348	9141	Transport and catabolism
+10515	Cre16.g684155	K11271	9182	Protein families: genetic information processing
+10516	Cre16.g684400	K08824	9181	Protein families: metabolism
+10527	Cre16.g685450	K10408	9164	Neurodegenerative diseases
+10528	Cre16.g685450	K10408	9183	Protein families: signaling and cellular processes
+10541	Cre16.g687000	K14685	9143	Cell growth and death
+10542	Cre16.g687000	K14685	9154	Digestive system
+10543	Cre16.g687000	K14685	9183	Protein families: signaling and cellular processes
+10564	Cre16.g688600	K11129	9122	Translation
+10565	Cre16.g688600	K11129	9182	Protein families: genetic information processing
+10566	Cre16.g688600	K11129	3032	DNA replication proteins
+10568	Cre16.g689050	K00232	9103	Lipid metabolism
+10569	Cre16.g689050	K00232	592	alpha-Linolenic acid metabolism
+10570	Cre16.g689050	K00232	1040	Biosynthesis of unsaturated fatty acids
+10571	Cre16.g689050	K00232	9132	Signal transduction
+10572	Cre16.g689050	K00232	9141	Transport and catabolism
+10573	Cre16.g689050	K00232	9152	Endocrine system
+10593	Cre16.g689871	K01870	9122	Translation
+10594	Cre16.g689871	K01870	9181	Protein families: metabolism
+10595	Cre16.g689871	K01870	9182	Protein families: genetic information processing
+10609	Cre16.g690991	K03233	9171	Infectious diseases: Bacterial
+10610	Cre16.g690991	K03233	9182	Protein families: genetic information processing
+10611	Cre16.g690991	K03233	3012	Translation factors
+10638	Cre16.g694850	K00620	9105	Amino acid metabolism
+10639	Cre16.g695050	K10527	9103	Lipid metabolism
+10640	Cre16.g695050	K10527	592	alpha-Linolenic acid metabolism
+10641	Cre16.g695100	K00232	9103	Lipid metabolism
+10642	Cre16.g695100	K00232	592	alpha-Linolenic acid metabolism
+10643	Cre16.g695100	K00232	1040	Biosynthesis of unsaturated fatty acids
+10644	Cre16.g695100	K00232	9132	Signal transduction
+10645	Cre16.g695100	K00232	9141	Transport and catabolism
+10646	Cre16.g695100	K00232	9152	Endocrine system
+10688	Cre17.g698950	K09140	9182	Protein families: genetic information processing
+10696	Cre17.g699500	K16603	9183	Protein families: signaling and cellular processes
+10735	Cre17.g704850	K00759	9104	Nucleotide metabolism
+10736	Cre17.g704850	K00759	9183	Protein families: signaling and cellular processes
+10761	Cre17.g707300	K13510	9103	Lipid metabolism
+10762	Cre17.g707300	K13510	565	Ether lipid metabolism
+10763	Cre17.g707300	K13510	9181	Protein families: metabolism
+10821	Cre17.g709750	K08824	9181	Protein families: metabolism
+10967	Cre17.g716800	K14611	9183	Protein families: signaling and cellular processes
+10973	Cre17.g717400	K00791	9109	Metabolism of terpenoids and polyketides
+10974	Cre17.g717400	K00791	9181	Protein families: metabolism
+10975	Cre17.g717400	K00791	9182	Protein families: genetic information processing
+11001	Cre17.g719450	K08850	9181	Protein families: metabolism
+11002	Cre17.g719450	K08850	9182	Protein families: genetic information processing
+11043	Cre17.g723300	K08824	9181	Protein families: metabolism
+11045	Cre17.g723550	K18649	9101	Carbohydrate metabolism
+11046	Cre17.g723550	K18649	562	Inositol phosphate metabolism
+11047	Cre17.g723550	K18649	9105	Amino acid metabolism
+11048	Cre17.g723550	K18649	9132	Signal transduction
+11049	Cre17.g723650	K07513	9103	Lipid metabolism
+11050	Cre17.g723650	K07513	592	alpha-Linolenic acid metabolism
+11051	Cre17.g723650	K07513	1040	Biosynthesis of unsaturated fatty acids
+11052	Cre17.g723650	K07513	9105	Amino acid metabolism
+11053	Cre17.g723650	K07513	9141	Transport and catabolism
+11054	Cre17.g723650	K07513	9152	Endocrine system
+11069	Cre17.g724550	K16780	9182	Protein families: genetic information processing
+11102	Cre17.g725650	K03453	9193	Unclassified: signaling and cellular processes
+11152	Cre17.g730950	K10394	9132	Signal transduction
+11153	Cre17.g730950	K10394	9183	Protein families: signaling and cellular processes
+11177	Cre17.g732700	K06201	9193	Unclassified: signaling and cellular processes
+11256	Cre17.g741200	K10436	9182	Protein families: genetic information processing
+11257	Cre17.g741200	K10436	9183	Protein families: signaling and cellular processes
+11270	Cre17.g741950	K16746	9182	Protein families: genetic information processing
+11305	Cre17.g746647	K17943	9192	Unclassified: genetic information processing
+11316	Cre17.g747397	K08857	9181	Protein families: metabolism
+11317	Cre17.g747397	K08857	9182	Protein families: genetic information processing
+11318	Cre17.g747397	K08857	3400	DNA repair and recombination proteins
+11326	Cre18.g749497	K01945	9104	Nucleotide metabolism
+11335	Cre19.g750247	K15744	9109	Metabolism of terpenoids and polyketides
+11337	Cre19.g750597	K13412	9159	Environmental adaptation
+11338	Cre19.g750597	K13412	9174	Infectious diseases: Parasitic
+11339	Cre19.g750597	K13412	9181	Protein families: metabolism
+11340	Cre19.g751197	K14794	9182	Protein families: genetic information processing
+11369	Cre50.g761447	K03500	9182	Protein families: genetic information processing
