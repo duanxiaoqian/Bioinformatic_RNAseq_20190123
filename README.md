@@ -15,5 +15,4 @@ edger ; DEseq2)
 #fifth and more--enrichment including GO and KEGG analysis and more(GO enrichment analysis: need TopGO or GOstat ,and clusterprofile, the last
  two softwares can also  be available on Kegg enrichment anaysis)
 
-#others--more details analysis: WGCNA analysis (need phenotype data or metabolomics data); GSEA analysis ; specials genes relationship analysis
-genes category anaysis
+#others--more details analysis: WGCNA analysis (need phenotype data or metabolomics data); GSEA analysis ; specials genes relationship analysis ;genes category anaysis ; and more
