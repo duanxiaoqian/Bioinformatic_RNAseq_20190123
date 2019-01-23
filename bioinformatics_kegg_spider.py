@@ -26,7 +26,7 @@ def get_page(url):
         print('error occured')
         return None
 
-
+#need website code regular, there, BeautifulSoup parser used
 def parse_page_detail(html):
     soup = BeautifulSoup(html, 'lxml')
     pattern = re.compile('>.*?<')
@@ -97,3 +97,10 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+#there , can also introduce argparse module that can accepts command line parameters, and make this script in packaging
+# import argparse
+# parser=argparse.ArgumentParser()
+# parser.add_argument("echo",help="echo the string")
+# args=parser.parse_args()
+# print args.echo
